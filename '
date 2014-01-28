@@ -1,0 +1,18 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+#include <stdbool.h>
+#include <math.h>
+#include "sieve.h"
+//#include "fermat.h"
+
+main() {
+    int size = 100000, numarr[size];
+    int len = sieve_of_atkin(size, numarr);
+    
+    //int i;
+    //for (i = 0; i < len; i++)
+    //    printf("%s ", mr_test(numarr[i], 10) ? "true " : "false");
+    int e = 5555;
+    printf("%d %d", (e >>= 1), (e & 1));
+}

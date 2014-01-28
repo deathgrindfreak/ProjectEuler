@@ -1,0 +1,96 @@
+# Project Euler Problem: 89
+# Goal: Write the list of roman numerals in the best way possible and find the number of
+# characters saved in doing so
+# Author: Cooper Bell
+
+
+def rom_to_dec(rom):
+    rom_chars = {'M':1000, 'D':500, 'C': 100, 'L':50, 'X':10, 'V':5, 'I':1}
+    summ = 0
+
+    while ('IV' in rom):
+        summ += 4
+        i = rom.index('IV')
+        rom = rom[:i] + rom[i+2:]
+    while ('IX' in rom):
+        summ += 9
+        i = rom.index('IX')
+        rom = rom[:i] + rom[i+2:]
+    while ('XL' in rom):
+        summ += 40
+        i = rom.index('XL')
+        rom = rom[:i] + rom[i+2:]
+    while ('XC' in rom):
+        summ += 90
+        i = rom.index('XC')
+        rom = rom[:i] + rom[i+2:]
+    while ('CD' in rom):
+        summ += 400
+        i = rom.index('CD')
+        rom = rom[:i] + rom[i+2:]
+    while ('CM' in rom):
+        summ += 900
+        i = rom.index('CM')
+        rom = rom[:i] + rom[i+2:]
+
+    for r in rom:
+        summ += rom_chars[r]
+    return summ
+
+def dec_to_rom(dec):
+    rom = ""
+
+    while dec >= 1000:
+        rom += 'M'
+        dec -= 1000
+
+    while dec >= 500:
+        rom += 'D'
+        dec -= 500
+
+    while dec >= 100:
+        rom += 'C'
+        dec -= 100
+
+    while dec >= 50:
+        rom += 'L'
+        dec -= 50
+
+    while dec >= 10:
+        rom += 'X'
+        dec -= 10
+
+    while dec >= 5:
+        rom += 'V'
+        dec -= 5
+
+    while dec >= 1:
+        rom += 'I'
+        dec -= 1
+
+    return rom
+
+
+# main
+def main():
+    numerals = open("roman.txt")
+
+    nums = []
+    for line in numerals:
+        line = line.strip()
+        num = rom_to_dec(line)
+        nums.append(num)
+
+    rom_red = open("roman_reduced.txt", 'rw+')
+    reds = []
+
+    for n in nums:
+        d = dec_to_rom(n)
+        reds.append(d)
+        rom_red.write(d+'\n')
+
+    numerals.close()
+    rom_red.close()
+
+if __name__ == '__main__':
+    main()

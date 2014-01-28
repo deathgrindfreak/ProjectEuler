@@ -1,0 +1,4002 @@
+player one: high hand		player two: high hand
+player two wins
+player one: 8C TS KC 9H 4S	player two: 7D 2S 5D 3S AC
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 5C AD 5D AC 9C	player two: 7C 5H 8D TD KS
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3H 7H 6S KC JS	player two: QH TD JC 2D 8S
+
+player one: one pair		player two: one pair
+player two wins
+player one: TH 8H 5C QS TC	player two: 9H 4D JC KS JS
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 7C 5H KC QH JD	player two: AS KH 4C AD 4S
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5H KS 9C 7D 9H	player two: 8D 3S 5D 5C AH
+
+player one: straight		player two: high hand
+player one wins
+player one: 6H 4H 5C 3H 2H	player two: 3S QH 5S 6S AS
+
+player one: one pair		player two: one pair
+player two wins
+player one: TD 8C 4H 7C TC	player two: KC 4C 3H 7S KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C 9C 6D KD 3H	player two: 4C QS QC AC KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC 6S 5H 2H 2D	player two: KD 9D 7C AS JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD QH TH 9D 8H	player two: TS 6D 3S AS AC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 4S 5C 5S TC	player two: KC JD 6C TS 3C
+
+player one: high hand		player two: high hand
+player one wins
+player one: QD AS 6H JS 2C	player two: 3D 9H KC 4H 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 8S 9S 7C 2S	player two: 3S 6D 6S 4H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C 8C 2D 7D 4D	player two: 9S 4S QH 4H JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8C KC 7S TC 2D	player two: TS 8H QD AC 5C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3D KH QD 6C 6S	player two: AD AS 8H 2H QS
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 6S 8D 4C 8S 6C	player two: QH TC 6D 7D 9D
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 2S 8D 8C 4C TS	player two: 9S 9D 9C AC 3D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3C QS 2S 4H JH	player two: 3D 2D TD 8S 9H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5H QS 8S 6D 3C	player two: 8C JD AS 7H 7D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 6H TD 9D AS JH	player two: 6C QC 9S KD JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH 8S QS 4D TH	player two: AC TS 3C 3D 5C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5S 4D JS 3D 8H	player two: 6C TS 3S AD 8C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6D 7C 5D 5H 3S	player two: 5C JC 2H 5S 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5H 6H 2S KS 3D	player two: 5D JD 7H JS 8H
+
+player one: high hand		player two: high hand
+player one wins
+player one: KH 4H AS JS QS	player two: QC TC 6D 7C KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3D QS TS 2H JS	player two: 4D AS 9S JC KD
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 5H 4D 5D KH	player two: 7H 3D JS KD 4H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C 9H 6H 5C 9D	player two: 6C JC 2D TH 9S
+
+player one: high hand		player two: high hand
+player one wins
+player one: 7D 6D AS QD JH	player two: 4D JS 7C QS 5C
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3H KH QD AD 8C	player two: 8H 3S TH 9D 5S
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 9S 4D 9D 8S	player two: 4H JS 3C TC 8D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C KS 5H QD 3S	player two: TS 9H AH AD 8S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5C 7H 5D KD 9H	player two: 4D 3D 2D KS AD
+
+player one: one pair		player two: two pairs
+player two wins
+player one: KS KC 9S 6D 2C	player two: QH 9D 9H TS TC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9C 6H 5D QH 4D	player two: AD 6D QC JS KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9S 3H 9D JD 5C	player two: 4D 9H AS TC QH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C 6D JC 9C 3C	player two: AD 9S KH 9D 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: KC 9C 7C JC JS	player two: KD 3H AS 3C 7D
+
+player one: one pair		player two: two pairs
+player two wins
+player one: QD KH QS 2C 3S	player two: 8S 8H 9H 9C JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: QH 8D 3C KC 4C	player two: 4H 6D AD 9H 9D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 3S KS QS 7H KH	player two: 7D 5H 5D JD AD
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 2H 2C 6H TH TC	player two: 7D 8D 4H 8C AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4S 2H AC QC 3S	player two: 6D TH 4D 4C KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D TC KS AS 7C	player two: 3C 6D 2D 9H 6C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C TD 5D QS 2C	player two: 7H 4C 9C 3H 9H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5H JH TS 7S TD	player two: 6H AD QD 8H 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S AD 9C 8C 7C	player two: 8D 5H 9D 8S 2S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4H KH KS 9S 2S	player two: KC 5S AD 4S 7D
+
+player one: one pair		player two: one pair
+player two wins
+player one: QS 9C QD 6H JS	player two: 5D AC 8D 2S AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH AC JC 3S 9D	player two: 9S 3C 9C 5S JS
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: AD 3C 3D KS 3S	player two: 5C 9C 8C TS 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JH 8D 5D 6H KD	player two: QS QD 3D 6C KC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8S JD 6C 3S 8C	player two: TC QC 3C QH JS
+
+player one: high hand		player two: two pairs
+player two wins
+player one: KC JC 8H 2S 9H	player two: 9C JH 8S 8C 9S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8S 2H QH 4D QC	player two: 9D KC AS TH 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8S 6H TH 7C 2H	player two: 6S 3C 3H AS 7S
+
+player one: one pair		player two: one pair
+player two wins
+player one: QH 5S JS 4H 5H	player two: TS 8H AH AC JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D 8H 2S 4S TC	player two: JC 3C 7H 3H 5C
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: 3D AD 3C 3S 4C	player two: QC AS 5D TH 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 9D 4C JS KH	player two: AH TS JD 8H AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 6S 9D 7S AC	player two: 4D 3D 3S TC JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 7H 6H 4H JH	player two: KC TD TS 7D 6S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8H JH TC 3S 8D	player two: 8C 9S 2C 5C 4D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 2C 9D KC QH TH	player two: QS JC 9C 4H TS
+
+player one: one pair		player two: one pair
+player one wins
+player one: QS 3C QD 8H KH	player two: 4H 8D TD 8S AC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 3C TH 5S 8H	player two: 8C 9C JD TC KD
+
+player one: one pair		player two: high hand
+player one wins
+player one: QC TC JD TS 8C	player two: 3H 6H KD 7C TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: JH QS KS 9C 6D	player two: 6S AS 9H KH 6H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 4D AH 2D JH	player two: 6H TD 5D 4H JD
+
+player one: high hand		player two: high hand
+player one wins
+player one: KD 8C 9S JH QD	player two: JS 2C QS 5C 7C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4S TC 7H 8D 2S	player two: 6H 7S 9C 7C KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8C 5D 7H 4S TD	player two: QC 8S JS 4H KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 8S JH 6D TD	player two: KD 7C 6C 2D 7D
+
+player one: two pairs		player two: high hand
+player one wins
+player one: JC 6H 6S JS 4H	player two: QH 9H AH 4C 3C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 6H 5H AS 7C 7S	player two: 3D KH KC 5D 5C
+
+player one: high hand		player two: one pair
+player two wins
+player one: JC 3D TD AS 4D	player two: 6D 6S QH JD KS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C 7S 8S QH 2S	player two: JD 5C 7H AH QD
+
+player one: one pair		player two: one pair
+player one wins
+player one: 8S 3C 6H 6C 2C	player two: 8D TD 7D 4C 4D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D QH KH 7C 2S	player two: 7H JS 6D QC QD
+
+player one: one pair		player two: flush
+player two wins
+player one: AD 6C 6S 7D TH	player two: 6H 2H 8H KH 4H
+
+player one: one pair		player two: high hand
+player one wins
+player one: KS JS KD 5D 2D	player two: KH 7D 9C 8C 3D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9C 6D QD 3C KS	player two: 3S 7S AH JD 2D
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH QH AS JC 8S	player two: 8H 4C KC TH 7D
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC 5H TD 7C 5D	player two: KD 4C AD 8H JS
+
+player one: one pair		player two: high hand
+player one wins
+player one: KC 2H AC AH 7D	player two: JH KH 5D 7S 6D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9S 5S 9C 6H 8S	player two: TD JD 9H 6C AC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 7D 8S 6D TS KD	player two: 7H AC 5S 7C 5D
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH QC JC 4C TC	player two: 8C 2H TS 2C 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: KD KC 6S 3D 7D	player two: 2S 8S 3H 5S 5C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8S 5D 8H 4C 6H	player two: KC 3H 7C 5S KD
+
+player one: one pair		player two: one pair
+player two wins
+player one: JH 8C 3D 3C 6C	player two: KC TD 7H 7C 4C
+
+player one: high hand		player two: one pair
+player two wins
+player one: JC KC 6H TS QS	player two: TD KS 8H 8C 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 5S 9C QH 7D	player two: AH KS KC 9S 2C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4D 4S 8H TD 9C	player two: 3S 7D 9D AS TH
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6S 7D 3C 6H 5D	player two: KD 2C 5C 9D 9C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2H KC 3D AD 3H	player two: QD QS 8D JC 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C 3H 9C 7C AD	player two: 5D JC 9D JS AS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5D 9H 5C 7H 6S	player two: 6C QC JC QD 9S
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC QS JH 2C 6S	player two: 9C QC 3D 4S TC
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4H 5S 8D 3D 4D	player two: 2S KC 2H JS 2C
+
+player one: one pair		player two: one pair
+player two wins
+player one: TD 3S TH KD 4D	player two: 7H JH JS KS AC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7S 8C 9S 2D 8S	player two: 7D 5C AD 9D AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C 7H 2S 6C TH	player two: 3H 4C 3S 8H AC
+
+player one: one pair		player two: high hand
+player one wins
+player one: KD 5H JC 8H JD	player two: 2D 4H TD JH 5C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D AS QH KS 7H	player two: JD 8S 5S 6D 5H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9S 6S TC QS JC	player two: 5C 5D 9C TH 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5H 3S JH 9H 2S	player two: 2C 6S 7S AS KS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C QD JC QS TC	player two: QC 4H AC KH 6C
+
+player one: high hand		player two: high hand
+player two wins
+player one: TC 5H 7D JH 4H	player two: 2H 8D JC KS 4D
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 5S 9C KH KD 9H	player two: 5C TS 3D 7D 2D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 5H AS TC 4D 8C	player two: 2C TS 9D 3H 8D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 6H 8D 2D 9H JD	player two: 6C 4S 5H 5S 6D
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 9C JC 7D 6H	player two: 9S 6D JS 9H 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD JH TC QS 4C	player two: 5D 9S 7C 9C AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 6H 2H TH 8S	player two: QD KS 9D 9H AS
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4H 8H 8D 5H 6C	player two: AH 5S AS AD 8S
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 5D 4S 2H TD	player two: KS 5H AC 3H JC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 9C 7D QD KD AC	player two: 6D 5H QH 6H 5S
+
+player one: high hand		player two: high hand
+player one wins
+player one: KC AH QH 2H 7D	player two: QS 3H KS 7S JD
+
+player one: one pair		player two: one pair
+player one wins
+player one: 6C 8S 3H 6D KS	player two: QD 5D 5C 8H TC
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 9H 4D 4S 6S 9D	player two: KH QC 4H 6C JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: TD 2D QH 4S 6H	player two: JH KD 3C QD 8C
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 4S 6H 7C QD 9D	player two: AS AH 6S AD 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C KC TH 6H 8D	player two: AH 5C 6D 8S 5D
+
+player one: one pair		player two: high hand
+player one wins
+player one: TD TS 7C AD JC	player two: QD 9H 3C KC 7H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 5D 4D 5S 8H 4H	player two: 7D 3H JD KD 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: JH TD 6H QS 4S	player two: KD 5C 8S 7D 8H
+
+player one: one pair		player two: high hand
+player one wins
+player one: AC 3D AS 8C TD	player two: 7H KH 5D 6C JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D KS 7C 6D QH	player two: TC JD KD AS KC
+
+player one: one pair		player two: two pairs
+player two wins
+player one: JH 8S 5S 7S 7D	player two: AS 2D 3D AD 2H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2H 5D AS 3C QD	player two: KC 6H 9H 9S 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D 5D TH 4C JH	player two: 3H 8D TC 8H 9H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6H KD 2C TD 2H	player two: 6C 9D 2D JS 8C
+
+player one: one pair		player two: high hand
+player one wins
+player one: KD 7S 3C 7C AS	player two: QH TS AD 8C 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS 8H 6C JS 4C	player two: 9S QC AD TD TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 7C TS TC 8C	player two: 3C 9H 2D 6D JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 2H 8D JH KS	player two: 6D 3H TD TH 8H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 9D TD 9H QC 5D	player two: 6C 8H 8C KC TS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2H 8C 3D AH 4D	player two: TH TC 7D 8H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: TS 5C 2D 8C 6S	player two: KH AH 5H 6H KC
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 5S 5D AH TC 4C	player two: JD 8D 6H 8C 6C
+
+player one: high hand		player two: high hand
+player two wins
+player one: KC QD 3D 8H 2D	player two: JC 9H 4H AD 2S
+
+player one: high hand		player two: high hand
+player one wins
+player one: TD 6S 7D JS KD	player two: 4H QS 2S 3S 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 9H JH TS 3S	player two: 4H QC 5S 9S 9C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C KD 9H JS 9S	player two: 3H JC TS 5D AC
+
+player one: two pairs		player two: one pair
+player one wins
+player one: AS 2H 5D AD 5H	player two: JC 7S TD JS 4C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2D 4S 8H 3D 7D	player two: 2C AD KD 9C TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7H QD JH 5H JS	player two: AC 3D TH 4C 8H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6D KH KC QD 5C	player two: AD 7C 2D 4H AC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D 9D TC 8S QD	player two: 2C JC 4H JD AH
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 6C TD 5S TC 8S	player two: AH 2C 5D AS AC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: TH 7S 3D AS 6C	player two: 4C 7H 7D 4H AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5C 2H KS 6H 7S	player two: 4H 5H 3D 3C 7H
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 3C 9S AC 7S QH	player two: 2H 3D 6S 3S 3H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2D 3H AS 2C 6H	player two: TC JS 6S 9C 6C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QH KD QD 6D AC	player two: 6H KH 2C TS 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8H 7D 3S 9H 5D	player two: 3H 4S QC 9S 5H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 9D 7H 6H 3C	player two: 8S 5H 4D 3S 4S
+
+player one: high hand		player two: high hand
+player one wins
+player one: KD 9S 4S TC 7S	player two: QC 3S 8S 2H 7H
+
+player one: one pair		player two: one pair
+player two wins
+player one: TC 3D 8C 3H 6C	player two: 2H 6H KS KD 4D
+
+player one: one pair		player two: one pair
+player two wins
+player one: KC 3D 9S 3H JS	player two: 4S 8H 2D 6C 8S
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 6H QS 6C TC QD	player two: 9H 7D 7C 5H 4D
+
+player one: one pair		player two: one pair
+player two wins
+player one: TD 9D 8D 6S 6C	player two: TC 5D TS JS 8H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4H KC JD 9H TC	player two: 2C 6S 5H 8H AS
+
+player one: one pair		player two: high hand
+player one wins
+player one: JS 9C 5C 6S 9D	player two: JD 8H KC 4C 6D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4D 8D 8S 6C 7C	player two: 6H 7H 8H 5C KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 3D JC 6D KS	player two: 9S 6H 7S 9C 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 3S KD 5H TS	player two: 7D 9H 9S 6H KH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3D QD 4C 6H TS	player two: AC 3S 5C 2H KD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4C AS JS 9S 7C	player two: TS 7H 9H JC KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4H 8C JD 3H 6H	player two: AD 9S 4S 5S KS
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4C 2C 7D 3D AS	player two: 9C 2S QS KC 6C
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8S 5H 3D 2S AC	player two: 9D 6S 3S 4D TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD TH 7S TS 3D	player two: AC 7H 6C 5D QC
+
+player one: one pair		player two: one pair
+player one wins
+player one: TC QD AD 9C QS	player two: 5C 8D KD 3D 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D 8H AS 3S 7C	player two: 8S JD 2D 8D KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C TH AC QH JS	player two: 8D 7D 7S 9C KH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9D 8D 4C JH 2C	player two: 2S QD KD TS 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D 6D 5D 2D JH	player two: 3S 8S 3H TC KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 4D 2C QS 8C	player two: KD JH JD AH 5C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5C 6C 5H 2H JH	player two: 4H KS 7C TC 3H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C 4C QC 5D JH	player two: 9C QD KH 8D TC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3H 9C JS 7H QH	player two: AS 7C 9H 5H JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 5S QD 4S 3C	player two: KC 6S 6C 5C 4C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D KH 2D TS 8S	player two: 9C AS 9S 7C 4C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7C AH 8C 8D 5S	player two: KD QH QS JH 2C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C 9D AH 2H AC	player two: QC 5S 8H 7H 2C
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: QD 9H 5S QS QC	player two: 9C 5H JC TH 4H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 6C 6S 3H 5H 3S	player two: 6H KS 8D AC 7S
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC QH 7H 8C 4S	player two: KC 6C 3D 3S TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D 3D JS TH AC	player two: 5H 3H 8S 3S TC
+
+player one: one pair		player two: one pair
+player two wins
+player one: QD KH JS KS 9S	player two: QC 8D AH 3C AC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5H 6C KH 3S 9S	player two: JH 2D QD AS 8C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6C 4D 7S 7H 5S	player two: JC 6S 9H 4H JH
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 5S 6H 9S AD	player two: 3S TH 2H 9D 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4C 8D 9H 7C QC	player two: AD 4S 9C KC 5S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9D 6H 4D TC 4C	player two: JH 2S 5D 3S AS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2H 6C 7C KH 5C	player two: AD QS TH JD 8S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3S 4S 7S AH AS	player two: KC JS 2S AD TH
+
+player one: high hand		player two: two pairs
+player two wins
+player one: JS KC 2S 7D 8C	player two: 5C 9C TS 5H 9D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S 9S 4D TD JH	player two: JS KH 6H 5D 2C
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: JD JS JC TH 2D	player two: 3D QD 8C AC 5H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S KH 5S 9D 5D	player two: TD 4S 6H 3C 2D
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4S 5D AC 8D 4D	player two: 7C AD AS AH 9C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6S TH TS KS 2C	player two: QC AH AS 3C 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2H 8C 3S JC 5C	player two: 7C 3H 3C KH JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7S 3H JC 5S 6H	player two: 4C 2S 4D KC 7H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4D 7C 4H 9S 8S	player two: 6S AD TC 6C JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH QS 3S TC 4C	player two: 8H 8S AC 3C TS
+
+player one: two pairs		player two: one pair
+player one wins
+player one: QD QS TH 3C TS	player two: 7H 7D AH TD JC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: TD JD QC 4D 9S	player two: 7S TS AD 7D AC
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 7H 4S 6D 7C	player two: 2H 9D KS JC TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C AH JD 4H 6D	player two: QS TS 2H 2C 5C
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC KC 8C 9S 4C	player two: JS 3C JC 6S AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 7D QC 3D 5S	player two: JC JD 9D TD KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 3C 2S 6H AH	player two: AC 5H 5C 7S 8H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QC 2D AC QD 2S	player two: 3S JD QS 6S 8H
+
+player one: high hand		player two: one pair
+player two wins
+player one: KC 4H 3C 9D JS	player two: 6H 3S 8S AS 8C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7H KC 7D JD 2H	player two: JC QH 5S 3H QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H TD 3S 8H 7S	player two: AC 5C 6C AH 7C
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8D 9H AH JD TD	player two: QS 7D 3S 9C 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH QH 3C JD KC	player two: 4S 5S 5D TD KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H 7H 6S JH TH	player two: 4C 7C AD 5C 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C KD 5S TC 9D	player two: 6S 6C 5D 2S TH
+
+player one: high hand		player two: high hand
+player two wins
+player one: KC 9H 8D 5H 7H	player two: 4H QC 3D 7C AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 8S QC TD 4S	player two: 5C TH QS QD 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8S 5H TH QC 9H	player two: 6S KC 7D 7C 5C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7H KD AH 4D KH	player two: 5C 4S 2D KC QH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 2C TD JC AS	player two: 4D 6C 8C 4H 5S
+
+player one: one pair		player two: one pair
+player two wins
+player one: JC TC JD 5S 6S	player two: 8D AS 9D AD 3S
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 6D 6H 5D 5S TC	player two: 3D 7D QS 9D QD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4S 6C 8S 3S 7S	player two: AD KS 2D 7D 7C
+
+player one: one pair		player two: one pair
+player one wins
+player one: KC QH JC AC QD	player two: 5D 8D QS 7H 7D
+
+player one: high hand		player two: high hand
+player one wins
+player one: JS AH 8S 5H 3D	player two: TD 3H 4S 6C JH
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4S QS 7D AS 9H	player two: JS KS 6D TC 5C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2D 5C 6H TC 4D	player two: QH 3D 9H 8S 6C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6D 7H TC TH 5S	player two: JD 5C 9C KS KD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8D TD QH 6S 4S	player two: 6C 8S KC 5C TC
+
+player one: high hand		player two: high hand
+player one wins
+player one: 5S 3D KS AC 4S	player two: 7D QD 4C TH 2S
+
+player one: straight		player two: high hand
+player one wins
+player one: TS 8H 9S 6S 7S	player two: QH 3C AH 7H 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 8C TS JS QC	player two: 3D 7D 5D 7S JH
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8S 7S 9D QC AC	player two: 7C 6D 2H JH KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: JS KD 3C 6S 4S	player two: 7C AH QC KS 5H
+
+player one: high hand		player two: high hand
+player two wins
+player one: KS 6S 4H JD QS	player two: TC 8H KC 6H AS
+
+player one: one pair		player two: high hand
+player one wins
+player one: KH 7C TC 6S TD	player two: JC 5C 7D AH 3S
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 3H 4C 4H TC TH	player two: 6S 7H 6D 9C QH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7D 5H 4S 8C JS	player two: 4D 3D 8S QH KC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3H 6S AD 7H 3S	player two: QC 8S 4S 7S JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S JD KH TH 6H	player two: QS 9C 6C 2D QD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4S QH 4D 5H KC	player two: 7D 6D 8D TH 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TD AD 6S 7H KD	player two: KH 9H 5S KC JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3H QC AS TS 4S	player two: QD KS 9C 7S KC
+
+player one: two pairs		player two: one pair
+player one wins
+player one: TS 6S QC 6C TH	player two: TC 9D 5C 5D KD
+
+player one: one pair		player two: one pair
+player two wins
+player one: JS 3S 4H KD 4C	player two: QD 6D 9S JC 9D
+
+player one: one pair		player two: full house
+player two wins
+player one: 8S JS 6D 4H JH	player two: 6H 6S 6C KS KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC 7D 5D TC 9S	player two: KH 6S QD 6H AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 7H 6D QH 8D	player two: TH 2S KH 5C 5H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4C 7C 3D QC TC	player two: 4S KH 8C 2D JS
+
+player one: one pair		player two: straight
+player two wins
+player one: 6H 5D 7S 5H 9C	player two: 9H JH 8S TH 7H
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: AS JS 2S QD KH	player two: 8H 4S AC 8D 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3H 4C TD KD 8C	player two: JC 5C QS 2D JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: TS 7D 5D 6C 2C	player two: QS 2H 3C AH KS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4S 7C 9C 7D JH	player two: 6C 5C 8H 9D QD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S TD 7S 6D 9C	player two: 9S QS KH QH 5C
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC 6S 9C QH JH	player two: 8D 7S JS KH 2H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8D 5H TH KC 4D	player two: 4S 3S 6S 3D QS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2D JD 4C TD 7C	player two: 6D TH 7S JC AH
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 7S 4C TH 9D	player two: TS AD 4D 3H 6H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D 3H 7D JD 3D	player two: AS 2S 9C QC 8S
+
+player one: one pair		player two: one pair
+player one wins
+player one: 4H 9H 9C 2C 7S	player two: JH KD 5C 5D 6H
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 9H 8H JC 3C	player two: 9S 8D KS AD KC
+
+player one: one pair		player two: high hand
+player one wins
+player one: TS 5H JD QS QH	player two: QC 8D 5D KH AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D AS 8S 6S 4C	player two: AH QC QD TH 7H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3H 4H 7D 6S 4S	player two: 9H AS 8H JS 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 8C 2C 9D 7D	player two: 5H 5S 9S JC KD
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 9C 4S QD AH	player two: 7C AD 9D AC TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6S 4H 4S 9C 8D	player two: KS TC 9D JH 7C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5S JC 5H 4S QH	player two: AC 2C JS 2S 9S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C 5H AS QD AD	player two: 5C 7D 8S QC TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: JC 4C 8D 5C KH	player two: QS 4D 6H 2H 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 4S 2D KC 3H	player two: QD AC 7H AD 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH QD AS 8H TH	player two: KC 8D 7S QH 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: JC 6C 7D 8C KH	player two: AD QS 2H 6S 2D
+
+player one: one pair		player two: one pair
+player one wins
+player one: JC KH 2D 7D JS	player two: QC 5H 4C 5D AD
+
+player one: one pair		player two: high hand
+player one wins
+player one: TS 3S AD 4S TD	player two: 2D TH 6S 9H JH
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9H 2D QS 2C 4S	player two: 3D KH AS AC 9D
+
+player one: one pair		player two: one pair
+player one wins
+player one: KH 6S 8H 4S KD	player two: 7D 9D TS QD QC
+
+player one: one pair		player two: high hand
+player one wins
+player one: JH 5H AH KS AS	player two: AD JC QC 5S KH
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5D 7D 6D KS KD	player two: 3D 7C 4D JD 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC JS 8D 5H 9C	player two: 3H 4H 4D TS 2C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 6H KS KH 9D 7C	player two: 2S 6S 8S 2H 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6H AC JS 7S 3S	player two: TD 8H 3H 4H TH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H TC QC KC 5C	player two: KS 6H 4H AC 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 7D QH 4S JC	player two: TS 6D 6C AC KH
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QH 7D 7C JH QS	player two: QD TH 3H 5D KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3D 5S 8D JS 4C	player two: 2C KS 7H 9C 4H
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 5H 8S 4H TD 2C	player two: 3S QD QC 3H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC JS KD 9C AD	player two: 5S 9D 7D 7H TS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8C JC KH 7C 7S	player two: 6C TS 2C QD TH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5S 9D TH 3C 7S	player two: QH 8S 9C 2H 5H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5D 9H 6H 2S JS	player two: KH 3H 7C 2H 5S
+
+player one: one pair		player two: one pair
+player two wins
+player one: JD 5D 5S 2C TC	player two: 2S 6S 6C 3C 8S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4D KH 8H 4H 2D	player two: KS 3H 5C 2S 9H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3S 2D TD 7H 8S	player two: 6H JD KC 9C 8D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 6S QD JH 7C 9H	player two: 5H 8S 8H TH TD
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QS 7S TD 7D TS	player two: JC KD 7C 3C 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C JD 8S 4H 2D	player two: 2S TD AS 4D AC
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH KS 6C 4C 4S	player two: 7D 8C 9H 6H AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 3C 9S 2C QS	player two: KD 4D 4S AC 5D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D TS 2C JS KH	player two: QH 5D 8C AS KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: KD 3H 6C TH 8S	player two: 7S KH 6H 9S AC
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 6H 7S 6C QS AH	player two: 2S 2H 4H 5D 5H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5H JC QD 2C 2S	player two: JD AS QC 6S 7D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C TC AS KD 8H	player two: 9D 2C 7D JH 9S
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 2H 4C 6C AH 8S	player two: TD 3H TH 7C TS
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 4S TS 6C QH	player two: 8D 9D 9C AH 7D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D JS 5C QD QC	player two: 9C 5D 8C 2H KD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C QH JH AD 6S	player two: AH KC 8S 6D 6H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 3D 7C 4C 7S 5S	player two: 3S 6S 5H JC 3C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QH 7C 5H 3C 3S	player two: 8C TS 4C KD 9C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 3S 7S 5H 7H	player two: QH JC 7C 8C KD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3C KD KH 2S 4C	player two: TS AC 6S 2C 7C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C KH 3C 4C 6H	player two: 4D 5H 5S 7S QD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D 7C 8S QD TS	player two: 9D KS 6H KD 3C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QS 4D TS 7S 4C	player two: 3H QD 8D 9S TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: TS QH AC 6S 3C	player two: 9H 9D QS 8S 6H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S 7S 5D 4S JS	player two: 2D 6C QH 6S TH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4C 4H AS JS 5D	player two: 3D TS 9C AC 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 9C 7C 3S 5C	player two: QS AD AS 6H 3C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9S 8C 7H 3H 6S	player two: 7C AS 9H JD KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3D 3H 7S 4D 6C	player two: 7C AC 2H 9C TH
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 4H 5S 3H AC TC	player two: TH 9C 9H 9S 8D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8D 9H 5H 4D 6C	player two: 2H QD 6S 5D 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4C 5C JD QS 4D	player two: 3H TH AC QH 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC 5S 3C 7H AD	player two: 4C KS 4H JD 6D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: QS AH 3H KS 9H	player two: 2S JS JH 5H 2H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 2H 5S TH 6S TS	player two: 3S KS 3C 5H JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 9S 7H 3D KC	player two: JH 6D 7D JS TD
+
+player one: one pair		player two: one pair
+player two wins
+player one: AC JS 8H 2C 8C	player two: JH JC 2D TH 7S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5D 9S 8H 2H 3D	player two: TC AH JC KD 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D QD JC 2H 6D	player two: KH TS 9S QH TH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C 8D 4S JD 5H	player two: 3H TH TC 9C KC
+
+player one: high hand		player two: high hand
+player one wins
+player one: AS 3D 9H 7D 4D	player two: TH KH 2H 7S 3H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4H 7S KS 2S JS	player two: TS 8S 2H QD 8D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5S 6H JH KS 8H	player two: 2S QC AC 6S 3S
+
+player one: one pair		player two: one pair
+player one wins
+player one: JC AS AD QS 8H	player two: 6C KH 4C 4D QD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2S 3D TS TD 9S	player two: KS 6S QS 5C 8D
+
+player one: high hand		player two: straight
+player two wins
+player one: 3C 6D 4S QC KC	player two: JH QD TH KH AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H AH 4D KS 2S	player two: 8D JH JC 7C QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 6C TH 3C 8H	player two: QD QH 2S 3S KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6H 5D 9S 4C TS	player two: TD JS QD 9D JD
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 5H 8H KH 8S KS	player two: 7C TD AD 4S KD
+
+player one: high hand		player two: straight
+player two wins
+player one: 2C 7C JC 5S AS	player two: 6C 7D 8S 5H 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S QD 9S TS KH	player two: QS 5S QH 3C KC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7D 3H 3C KD 5C	player two: AS JH 7H 6H JD
+
+player one: one pair		player two: one pair
+player one wins
+player one: 9D 5C 9H KC 8H	player two: KS 4S AD 4D 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S JD QD 8D 2S	player two: 7C 5S 6S 5H TS
+
+player one: high hand		player two: high hand
+player one wins
+player one: 6D 9S KC TD 3S	player two: 6H QD JD 5C 8D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 5H 9D TS KD 8D	player two: 6H TD QC 4C 7D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6D 4S JD 9D AH	player two: 9S AS TD 9H QD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2D 5S 2H 9C 6H	player two: 9S TD QC 7D TC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3S 2H KS TS 2C	player two: 9C 8S JS 9D 7D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3C KC 6D 5D 6C	player two: 6H 8S AS 7S QS
+
+player one: high hand		player two: high hand
+player two wins
+player one: JH 9S 2H 8D 4C	player two: 8H 9H AD TH KH
+
+player one: high hand		player two: high hand
+player one wins
+player one: QC AS 2S JS 5C	player two: 6H KD 3H 7H 2C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 8H 2S 8D 3S	player two: 6D AH 2C TC 5C
+
+player one: one pair		player two: high hand
+player one wins
+player one: JD JS TS 8S 3H	player two: 5D TD KC JC 6H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S QS TC 3H 5D	player two: AH JC 7C 7D 4H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 5D 8H 9C 2H	player two: 9H JH KH 5S 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9C 7H 6S TH 3S	player two: QC QD 4C AC JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2H 5D 9S 7D KC	player two: 3S QS 2D AS KH
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2S 4S 2H 7D 5C	player two: TD TH QH 9S 4D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D 3S TS 6H 4H	player two: KS 9D 8H 5S 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H KS 4H 3S 5C	player two: 5D KH 6H 6S JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: KC AS 8C 4C JC	player two: KH QC TH QD AH
+
+player one: high hand		player two: high hand
+player one wins
+player one: 6S KH 9S 2C 5H	player two: TC 3C 7H JC 4D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: JD 4S 6S 5S 8D	player two: 7H 7S 4D 4C 2H
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 7H 9H 5D KH 9C	player two: 7C TS TC 7S 5H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4C 8D QC TS 4S	player two: 9H 3D AD JS 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C QS 5C 5D 3H	player two: JS AH KC 4S 9D
+
+player one: one pair		player two: one pair
+player two wins
+player one: TS JD 8S QS TH	player two: JH KH 2D QD JS
+
+player one: high hand		player two: high hand
+player one wins
+player one: JD QC 5D 6S 9H	player two: 3S 2C 8H 9S TS
+
+player one: high hand		player two: straight
+player two wins
+player one: 2S 4C AD 7H JC	player two: 5C 2D 6D 4H 3D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S JS 2C 4H 8C	player two: AD QD 9C 3S TD
+
+player one: high hand		player two: high hand
+player two wins
+player one: JD TS 4C 6H 9H	player two: 7D QD 6D 3C AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 7C 4C 6S 5D	player two: 5S 5C JS QC 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 6S 9S 7C 3C	player two: 5S 7D JH QD JS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4S 7S JH 2C 8S	player two: 5D 7H 3D QH AD
+
+player one: high hand		player two: high hand
+player two wins
+player one: TD 6H 2H 8D 4H	player two: 2D 7C AD KH 5D
+
+player one: high hand		player two: high hand
+player two wins
+player one: TS 3S 5H 2C QD	player two: AH 2S 5C KH TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: KC 4D 8C 5D AS	player two: 6C 2H 2S 9H 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: KD JS QC TS QS	player two: KH JH 2C 5D AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S 5H KC 6C 9H	player two: 3H 2H AD 7D 7S
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 7S JS JH KD 8S	player two: 7D 2S 9H 7C 2H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H 2D 8D QC 6S	player two: AD AS 8H 5H 6C
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 2S 7H 6C 6D 7D	player two: 8C 5D 9D JC 3C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7C 9C 7H JD 2H	player two: KD 3S KH AD 4S
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: QH AS 9H 4D JD	player two: KS KD TS KH 5H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4C 8H 5S 3S 3D	player two: 7D TD AD 7S KC
+
+player one: two pairs		player two: high hand
+player one wins
+player one: JS 8S 5S JC 8H	player two: TH 9C 4D 5D KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 5S 9C QD 2C	player two: QH JS 5H 8D KH
+
+player one: high hand		player two: high hand
+player one wins
+player one: TD 2S KS 3D AD	player two: KC 7S TC 3C 5D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 2S AD QS 6C	player two: 9S QD TH QH 5C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 8C AD QS 2D 2S	player two: KC JD KS 6C JC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 8D 4D JS 2H 5D	player two: QD 7S 7D QH TS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6S 7H 3S 8C 8S	player two: 9D QS 8H 6C 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4S TC 2S 5C QD	player two: 4D QS 6D TH 6S
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3S 5C 9D 6H 8D	player two: 4C 7D TC 7C TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 6S AS 7H 5S	player two: KD 3H 5H AC 4C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8D 8S AH KS QS	player two: 2C AD 6H 7D 5D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6H 9H 9S 2H QS	player two: 8S 9C 5D 2D KD
+
+player one: high hand		player two: one pair
+player two wins
+player one: TS QC 5S JH 7D	player two: 7S TH 9S 9H AC
+
+player one: high hand		player two: high hand
+player one wins
+player one: 7H 3H 6S KC 4D	player two: 6D 5C 4S QD TS
+
+player one: high hand		player two: one pair
+player two wins
+player one: TD 2S 7C QD 3H	player two: JH 9D 4H 7S 7H
+
+player one: high hand		player two: one pair
+player two wins
+player one: KS 3D 4H 5H TC	player two: 2S AS 2D 6D 7D
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8H 3C 7H TD 3H	player two: AD KC TH 9C KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: TC 4C 2C 9S 9D	player two: 9C 5C 2H JD 3C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 3H AC TS 5D AD	player two: 8D 6H QC 6S 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S TS 3S JD 7H	player two: 8S QH 4C 5S 8D
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC 4S 6C 3C KH	player two: 3D 7C 2D 8S 2H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4H 6C 8S TH 2H	player two: 4S 8H 9S 3H 7S
+
+player one: flush		player two: high hand
+player one wins
+player one: 7C 4C 9C 2C 5C	player two: AS 5D KD 4D QH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H 4H TS AS 7D	player two: 8D 5D 9S 8C 2H
+
+player one: one pair		player two: high hand
+player one wins
+player one: QC KD AC AD 2H	player two: 7S AS 3S 2D 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2H QC 8H TC 6D	player two: QD QS 5D KH 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH JD QS 4C 2S	player two: 5S AD 7H 3S AS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7H JS 3D 6C 3S	player two: 6D AS 9S AC QS
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 9C TS AS 8C TC	player two: 8S 6H 9D 8D 6C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4D JD 9C KC 7C	player two: 6D KS 3S 8C AS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3H 6S TC 8D TS	player two: 3S KC 9S 7C AS
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 8C QC 4H 4S 8S	player two: 6C 3S TC AH AC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D 7D 5C AS 2H	player two: 6S TS QC AD TC
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD QC 8S 4S TH	player two: 3D AH TS JH 4H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5C 2D 9S 2C 3H	player two: 3C 9D QD QH 7D
+
+player one: one pair		player two: high hand
+player one wins
+player one: KC 9H 6C KD 7S	player two: 3C 4D AS TC 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D JS 4D 9D KS	player two: 7D TH QC 3H 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8D 5S 2H 9D 3H	player two: 8C 4C 4H 3C TH
+
+player one: one pair		player two: one pair
+player one wins
+player one: JC TH 4S 6S JD	player two: 2D 4D 6C 3D 4C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: TS 3S 2D 4H AC	player two: 2C 6S 2H JH 6H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: TD 8S AD TC AH	player two: AC JH 9S 6S 7S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6C KC 4S JD 8D	player two: 9H 5S 7H QH AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 8D TS JH 5C	player two: 5H 3H AD AS JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 4H 3D 6C 8C	player two: 7S AD 5D 5C 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TD 5D 7S 9C 4S	player two: 5H 6C 8C 4C 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JS QH 9C AS 5C	player two: QS JC 3D QC 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC 9C KH JH QS	player two: QC 2C TS 3D AD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5D JH AC 5C 9S	player two: TS 4C JD 8C KS
+
+player one: one pair		player two: straight
+player two wins
+player one: KC AS 2D KH 9H	player two: 2C 5S 4D 3D 6H
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH AH 2D 8S JC	player two: 3D 8C QH 7S 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8H QD 4H JC AS	player two: KH KS 3C 9S 6D
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9S QH 7D 9C 4S	player two: AC 7H KH 4D KD
+
+player one: one pair		player two: one pair
+player one wins
+player one: AH AD TH 6D 9C	player two: 9S KD KS QH 4H
+
+player one: one pair		player two: one pair
+player one wins
+player one: QD 6H 9C 7C QS	player two: 6D 6S 9D 5S JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH 8D 5H QD 2H	player two: JC KS 4H KH 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5C 2S JS 8D 9C	player two: 8C 3D AS KC AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 9S 2H QS 8H	player two: 5S 8C TH 5C 4C
+
+player one: two pairs		player two: one pair
+player one wins
+player one: QC QS 8C 2S 2C	player two: 3S 9C 4C KS KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D 5D 8S AH AD	player two: TD 2C JS KS 8C
+
+player one: one pair		player two: one pair
+player two wins
+player one: TC 5S 5H 8H QC	player two: 9H 6H JD 4H 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C JH 4H 9H AH	player two: 4S 2H 4C 8D AC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 8S TH 4D 7D 6D	player two: QD QS 7S TC 7C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: KH 6D 2D JD 5H	player two: JS QD JH 4H 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9C 7S JH 4S 3S	player two: TS QC 8C TC 4H
+
+player one: one pair		player two: one pair
+player one wins
+player one: QH 9D 4D JH QS	player two: 3S 2C 7C 6C 2D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4H 9S JD 5C 5H	player two: AH 9D TS 2D 4C
+
+player one: high hand		player two: one pair
+player two wins
+player one: KS JH TS 5D 2D	player two: AH JS 7H AS 8D
+
+player one: one pair		player two: high hand
+player one wins
+player one: JS AH 8C AD KS	player two: 5S 8H 2C 6C TH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 5D AD AC KS	player two: 3D 8H TS 6H QC
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 6D 4H TS 9C 5H	player two: JS JH 6S JD 4C
+
+player one: high hand		player two: high hand
+player two wins
+player one: JH QH 4H 2C 6D	player two: 3C 5D 4C QS KC
+
+player one: three of a kind		player two: one pair
+player one wins
+player one: 6H 4H 6C 7H 6S	player two: 2S 8S KH QC 8C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3H 3D 5D KS 4H	player two: TD AD 3S 4D TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5S 7C 8S 7D 2C	player two: KS 7S 6C 8C JS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5D 2H 3S 7C 5C	player two: QD 5H 6D 9C 9H
+
+player one: high hand		player two: one pair
+player two wins
+player one: JS 2S KD 9S 8D	player two: TD TS AC 8C 9D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 5H QD 2S AC 8C	player two: 9H KS 7C 4S 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH AS 3H 8S 9C	player two: JS QS 4S AD 4D
+
+player one: one pair		player two: high hand
+player one wins
+player one: AS 2S TD AD 4D	player two: 9H JC 4C 5H QS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5D 7C 4H TC 2D	player two: 6C JS 4S KC 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 2C 5D AC 9H	player two: 3D JD 8S QS QH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C 8S 6H 3C QH	player two: 6D TC KD AC AH
+
+player one: one pair		player two: one pair
+player two wins
+player one: QC 6C 3S QS 4S	player two: AC 8D 5C AD KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5S 4C AC KH AS	player two: QC 2C 5C 8D 9C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 8H JD 3C KH 8D	player two: 5C 9C QD QH 9D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7H TS 2C 8C 4S	player two: TD JC 9C 5H QH
+
+player one: high hand		player two: high hand
+player two wins
+player one: JS 4S 2C 7C TH	player two: 6C AS KS 7S JD
+
+player one: one pair		player two: one pair
+player one wins
+player one: JH 7C 9H 7H TC	player two: 5H 3D 6D 5D 4D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C QD JH 2H 9D	player two: 5S 3D TD AD KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: JD QH 3S 4D TH	player two: 7D 6S QS KS 4H
+
+player one: one pair		player two: one pair
+player one wins
+player one: TC KS 5S 8D 8H	player two: AD 2S 2D 4C JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S JH TC 3S 2D	player two: QS 9D 4C KD 9S
+
+player one: one pair		player two: one pair
+player one wins
+player one: AC KH 3H AS 9D	player two: KC 9H QD 6C 6S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9H 7S 3D 5C 7D	player two: KC TD 8H 4H 6S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C 7H 8H TC QD	player two: 4D 7S 6S QH 6C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D AD 4C QD 6C	player two: 5D 7D 9D KS TS
+
+player one: one pair		player two: one pair
+player one wins
+player one: JH 2H JD 9S 7S	player two: TS KH 8D 5D 8H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 2D 9S 4C 7D 9D	player two: 5H QD 6D AC 6S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S 6D JC QD JH	player two: 4C 6S QS 2H 7D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8C TD JH KD 2H	player two: 5C QS 2C JS 7S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 5H 4H JH QD	player two: 3S 5S 5D 8S KH
+
+player one: one pair		player two: two pairs
+player two wins
+player one: KS KH 7C 2C 5D	player two: JH 6S 9C 6D JC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5H AH JD 9C JS	player two: KC 2H 6H 4D 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 3C TH QC 6H	player two: 9C 8S 8C TD 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: KC 2C QD 9C KH	player two: 4D 7S 3C TS 9H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9C QC 2S TS 8C	player two: TD 9S QD 3S 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D 9D TH JH AH	player two: 6S 2S JD QH JS
+
+player one: high hand		player two: high hand
+player two wins
+player one: QD 9H 6C KD 7D	player two: 7H 5D 6S 8H AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8H 3C 4S 2H 5H	player two: QS QH 7S 4H AC
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 3C 7S 9S 4H	player two: 3S AH KS 9D 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: AD 5S 6S 2H 2D	player two: 5H TC 4S 3C 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: QH TS 6S 4D JS	player two: KS JH AS 8S 6D
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2C 8S 2S TD 5H	player two: AS TC TS 6C KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: KC TS 8H 2H 3H	player two: 7C 4C 5S TH TD
+
+player one: two pairs		player two: three of a kind
+player two wins
+player one: KD AD KH 7H 7S	player two: 5D 5H 5S 2D 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 9S 3D 7S 8C	player two: QC 7C 9C KD KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C QC 9S 8C 4D	player two: 5C AS QD 6C 2C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2H KC 8S JD 7S	player two: AC 8D 5C 2S 4D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D QH 3D 2S TC	player two: 3S KS 3C 9H TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 6S AC 2C 7H	player two: 5H 3S 6C 6H 8C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: QH TC 8S 6S KH	player two: TH 4H 5D TS 4D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8C JS 4H 6H 2C	player two: 2H 7D AC QD 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS KC 6S 2D 5S	player two: 4H TD 3H JH 4C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S 5H 7H 8H KH	player two: 6H QS TH KD 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5H AD KD 7C KH	player two: 5S TD 6D 3C 6C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C 9C 5H JD 7C	player two: KC KH 7H 2H 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S 4H AD 4D 8S	player two: QS TH 3D 7H 5S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8D TC KS KD 9S	player two: 6D AD JD 5C 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7H 8H 6C QD 2H	player two: 6H 9D TC 9S 7C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8D 6D 4C 7C 6C	player two: 3C TH KH JS JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 3S 8S JS 9H	player two: AS AD 8H 7S KD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: JH 7C 2C KC 5H	player two: AS AD 9C 9S JS
+
+player one: one pair		player two: one pair
+player one wins
+player one: AD AC 2C 6S QD	player two: 7C 3H TH KS KD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9D JD 4H 8H 4C	player two: KH 7S TS 8C KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3S 5S 2H 7S 6H	player two: 7D KS 5C 6D AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 8C 9H QS 7H	player two: 7S 2H 6C 7D TD
+
+player one: high hand		player two: high hand
+player one wins
+player one: QS 5S TD AC 9D	player two: KC 3D TC 2D 4D
+
+player one: high hand		player two: high hand
+player two wins
+player one: TD 2H 7D JD QD	player two: 4C 7H 5D KC 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 3H 8S KD QH	player two: 5S QC 9H TC 5H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9C QD TH 5H TS	player two: 5C 9H AH QH 2C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 4D 6S 3C AC 6C	player two: 3D 2C 2H TD TH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC 9C 5D QC 4D	player two: AD 8D 6D 8C KC
+
+player one: one pair		player two: straight
+player two wins
+player one: AD 3C 4H AC 8D	player two: 8H 7S 9S TD JC
+
+player one: high hand		player two: full house
+player two wins
+player one: 4H 9H QH JS 2D	player two: TH TD TC KD KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 6S 9S 8D TH	player two: AS KH 5H 5C 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 2S 9S 6S 5S	player two: 8S 5D 7S 7H 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D 8C 4C 9D AD	player two: TS 2C 7D KD TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8S QS 4D KC 5C	player two: 8D 4S KH JD KD
+
+player one: one pair		player two: one pair
+player one wins
+player one: AS 5C AD QH 7D	player two: 2H 9S 7H 7C TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S 8S JD KH 7S	player two: 6C 6D AD 5D QC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9H 6H 3S 8C 8H	player two: AH TC 4H JS TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C TS 4D 7H 2D	player two: QC 9C 5D TH 7C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 8H QC 5D TS	player two: JH 5C 5H 9H 4S
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 2D QC 7H AS JS	player two: 8S 2H 4C 4H 8D
+
+player one: high hand		player two: high hand
+player one wins
+player one: JS 6S AC KD 3D	player two: 3C 4S 7H TH KC
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: QH KH 6S QS 5S	player two: 4H 3C QD 3S 3H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 7H AS KH 8C 4H	player two: 9C 5S 3D 6S TS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9C 7C 3H 5S QD	player two: 2C 3D AD AC 5H
+
+player one: one pair		player two: one pair
+player one wins
+player one: JH TD 2D 4C TS	player two: 3H KH AD 3S 7S
+
+player one: one pair		player two: high hand
+player one wins
+player one: AS 4C 5H 4D 6S	player two: KD JC 3C 6H 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3H 6S 8C 2D TH	player two: 4S AH QH AD 5H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7C 2S 9H 7H KC	player two: 5C 6D 5S 3H JC
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3C TC 9C 4H QD	player two: TD JH 6D 9H 5S
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 7C 6S 5C 5D 6C	player two: 4S 7H 9H 6H AH
+
+player one: one pair		player two: high hand
+player one wins
+player one: AD 2H 7D KC 2C	player two: 4C 2S 9S 7H 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 4C 8S 6S 3S	player two: AD KS AS JH TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5C TD 4S 4D AD	player two: 6S 5D TC 9C 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 8H 3S 4D 4S 5S	player two: 6H 5C AC 3H 3D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 9H 3C AC 4S QS	player two: 8S 9D QH 5H 4D
+
+player one: high hand		player two: high hand
+player one wins
+player one: JC 6C 5H TS AC	player two: 9C JD 8C 7C QD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8S 8H 9C JD 2D	player two: QC QH 6H 3C 8D
+
+player one: high hand		player two: one pair
+player two wins
+player one: KS JS 2H 6H 5H	player two: QH QS 3H 7C 6D
+
+player one: high hand		player two: high hand
+player two wins
+player one: TC 3H 4S 7H QC	player two: 2H 3S 8C JS KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH 8H 5S 4C 9H	player two: JD 3H 7S JC AC
+
+player one: straight		player two: one pair
+player one wins
+player one: 3C 2D 4C 5S 6C	player two: 4S QS 3S JD 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5H 2D TC AH KS	player two: 6D 7H AD 8C 6H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6C 7S 3C JD 7C	player two: 8H KS KH AH 6D
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 7D 3H 8H 8S	player two: 7H QS 5H 9D 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD AC 4H 7S 8S	player two: 9S KS AS 9D QH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S 2C 8S 5S JH	player two: QS JC AH KD 4C
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH 2S 9H 4H 8D	player two: TS TD 6H QH JD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 4H JC 3H QS 6D	player two: 7S 9C 8S 9D 8D
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 5H TD 4S 9S 4C	player two: 8C 8D 7H 3H 3D
+
+player one: one pair		player two: high hand
+player one wins
+player one: QS KH 3S 2C 2S	player two: 3C 7S TD 4S QD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C TD 4D 5S KH	player two: AC AS 7H 4C 6C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S 5H 6D JD 9H	player two: QS 8S 2C 2H TD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 2S TS 6H 9H 7S	player two: 4H JC 4C 5D 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C 5H 7D 4H 3S	player two: QH JC JS 6D 8H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 4C QH 7C QD 3S	player two: AD TH 8S 5S TS
+
+player one: one pair		player two: one pair
+player one wins
+player one: 9H TC 2S TD JC	player two: 7D 3S 3D TH QH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7D 4C 8S 5C JH	player two: 8H 6S 3S KC 3H
+
+player one: high hand		player two: high hand
+player two wins
+player one: JC 3H KH TC QH	player two: TH 6H 2C AC 5H
+
+player one: one pair		player two: two pairs
+player two wins
+player one: QS 2H 9D 2C AS	player two: 6S 6C 2S 8C 8S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H 7D QC TH 4H	player two: KD QS AC 7S 3C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4D JH 6S 5S 8H	player two: KS 9S QC 3S AS
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 2D 6S 7S TC	player two: 9H KC 3H 7D KD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H KH 7C 4D 4S	player two: 3H JS QD 7D KC
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4C JC AS 9D 3C	player two: JS 6C 8H QD 4D
+
+player one: high hand		player two: one pair
+player two wins
+player one: AH JS 3S 6C 4C	player two: 3D JH 6D 9C 9H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H 2D 8C 7H 5S	player two: KS 6H 9C 2S TC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6C 8C AD 7H 6H	player two: 3D KH AS 5D TH
+
+player one: one pair		player two: one pair
+player one wins
+player one: KS 8C 3S TS 8S	player two: 4D 5S 9S 6C 4H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 9H 4S 4H 5C 7D	player two: KC 2D 2H 9D JH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5C JS TC 9D 9H	player two: 5H 7S KH JC 6S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C 9H 8H 4D JC	player two: KH JD 2H TD TC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8H 6C 2H 2C KH	player two: 6H 9D QS QH 5H
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: AC 7D 2S 3D QD	player two: JC 2D 8D JD JH
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: 2H JC 2D 7H 2C	player two: 3C 8D KD TD 4H
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3S 4H 6D 8D TS	player two: 3H TD 3D 6H TH
+
+player one: one pair		player two: high hand
+player one wins
+player one: JH JC 3S AC QH	player two: 9H 7H 8S QC 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7H TD QS 4S 8S	player two: 9C 2S 5D 4D 2H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3D TS 3H 2S QC	player two: 8H 6H KC JC KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5D JD 7D TC 8C	player two: 6C 9S 3D 8D AC
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8H 6H JH 6C 5D	player two: 8D 8S 4H AD 2C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9D 4H 2D 2C 3S	player two: TS AS TC 3C 5D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4D TH 5H KS QS	player two: 6C 4S 2H 3D AD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5C KC 6H 2C 5S	player two: 3C 4D 2D 9H 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 4C 3H TH QH	player two: 9H 5S AH 8S AC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7D 9S 6S 2H TD	player two: 9C 4H 8H QS 4C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C 6H 5D 4H 8C	player two: 9C KC 6S QD QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S 9H KD TC 2D	player two: JS 8C 6S 4H 4S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2S 4C 8S QS 6H	player two: KH 3H TH 8C 5D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 2C KH 5S 3S 7S	player two: 7H 6C 9D QD 8D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8H KS AC 2D KH	player two: TS 6C JS KC 7H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9C KS 5C TD QC	player two: AH 6C 5H 9S 7C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5D 4D 3H 4H 6S	player two: 7C 7S AH QD TD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2H 7D QC 6S TC	player two: TS AH 7S 9D 3H
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 5H QD 9S KS	player two: 7S 7C 6H 8C TD
+
+player one: high hand		player two: high hand
+player two wins
+player one: TH 2D 4D QC 5C	player two: 7D JD AH 9C 4H
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 4H 3H AH 8D 6H	player two: QC QH 9H 2H 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D AD 4C TS 6H	player two: 7S TH 4H QS TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3C KD 2H 3H QS	player two: JD TC QC 5D 8H
+
+player one: straight		player two: one pair
+player one wins
+player one: KS JC QD TH 9S	player two: KD 8D 8C 2D 9C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3C QD KD 6D 4D	player two: 8D AH AD QC 8S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8H 3S 9D 2S 3H	player two: KS 6H 4C 7C KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: TH 9S 5C 3D 7D	player two: 6H AC 7S 4D 2C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5C 3D JD 4D 2D	player two: 6D 5H 9H 4C KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 7H TD 6C 2H	player two: 3D QD KS 4C 4S
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC 3C AC 7C JD	player two: JS 8H 9S QC 5D
+
+player one: high hand		player two: high hand
+player one wins
+player one: JD 6S 5S 2H AS	player two: 8C 7D 5H JH 3D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8D TC 5S 9S 8S	player two: 3H JC 5H 7S AS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5C TD 3D 7D 4H	player two: 8D 7H 4D 5D JS
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 9C KS TD 2S	player two: 8S 5C 2H 4H AS
+
+player one: one pair		player two: one pair
+player two wins
+player one: TH 7S 4H 7D 3H	player two: JD KD 5D 2S KC
+
+player one: one pair		player two: high hand
+player one wins
+player one: JD 7H 4S 8H 4C	player two: JS 6H QH 5S 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C QS 8C 5S 3H	player two: QC 2S 6C QD AD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 8C 3D JD TC 4H	player two: 2H AD 5S AC 2S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5D 2C JS 2D AD	player two: 9D 3D 4C 4S JH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8D 5H 5D 6H 7S	player two: 4D KS 9D TD JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D 6D 9C 2S AS	player two: 7D 5S 5C 8H JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C 8S 3S 6S 5H	player two: JD TC AD 7H 7S
+
+player one: high hand		player two: high hand
+player one wins
+player one: 2S 9D TS 4D AC	player two: 8D 6C QD JD 3H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9S KH 2C 3C AC	player two: 3D 5H 6H 8D 5D
+
+player one: high hand		player two: one pair
+player two wins
+player one: KS 3D 2D 6S AS	player two: 4C 2S 7C 7H KH
+
+player one: high hand		player two: high hand
+player one wins
+player one: AC 2H 3S JC 5C	player two: QH 4D 2D 5H 7S
+
+player one: high hand		player two: one pair
+player two wins
+player one: TS AS JD 8C 6H	player two: JC 8S 5S 2C 5D
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 7S QH 7H 6C QC	player two: 8H 2D 7C JD 2S
+
+player one: three of a kind		player two: one pair
+player one wins
+player one: 2C QD 2S 2H JC	player two: 9C 5D 2D JD JH
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7C 5C 9C 8S 7D	player two: 6D 8D 6C 9S JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C AD 6S 5H 3S	player two: KS 7S 9D KH 4C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7H 6C 2C 5C TH	player two: 9D 8D 3S QC AH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5S KC 6H TC 5H	player two: 8S TH 6D 3C AH
+
+player one: high hand		player two: high hand
+player one wins
+player one: 9C KD 4H AD TD	player two: 9S 4S 7D 6H 5D
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 7H 5C 5H 6D AS	player two: 4C KD KH 4H 9D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C 2S 5C 6C JD	player two: QS 2H 9D 7D 3H
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC 2S 6S 7S JS	player two: QD 5C QS 6H AD
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5H TH QC 7H TC	player two: 3S 7C 6D KC 3D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4H 3D QC 9S 8H	player two: 2C 3S JC KS 5C
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4S 6S 2C 6H 8S	player two: 3S 3D 9H 3H JS
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 4S 8C 4D 2D 8H	player two: 9H 7D 9D AH TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9S 2C 9H 4C 8D	player two: AS 7D 3D 6D 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 4C 7H 8C 3H	player two: 5H JC AH 9D 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S 7C 5S JD 8C	player two: 3S 3D 4D 7D 6S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C KC 4S 5D 7D	player two: 3D JD 7H 3H 4H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 9C 9H 4H 4D TH	player two: 6D QD 8S 9S 7S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H AC 8S 4S AD	player two: 8C 2C AH 7D TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: TS 9H 3C AD KS	player two: TC 3D 8C 8H JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC 8D 2C 3C 7D	player two: 7C JD 9H 9C 6C
+
+player one: one pair		player two: high hand
+player one wins
+player one: AH 6S JS JH 5D	player two: AS QC 2C JD TD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9H KD 2H 5D 2D	player two: 3S 7D TC AH TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: TD 8H AS 5D AH	player two: QC AC 6S TC 5H
+
+player one: one pair		player two: high hand
+player one wins
+player one: KS 4S 7H 4D 8D	player two: 9C TC 2H 6H 3H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 3H KD 4S QD QH	player two: 3D 8H 8C TD 7S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8S JD TC AH JS	player two: QS 2D KH KS 4D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3C AD JC KD JS	player two: KH 4S TH 9H 2C
+
+player one: high hand		player two: high hand
+player two wins
+player one: QC 5S JS 9S KS	player two: AS 7C QD 2S JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: KC 5S QS 3S 2D	player two: AC 5D 9H 8H KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6H 9C TC AD 2C	player two: 6D 5S JD 6C 7C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QS KH TD QD 2C	player two: 3H 8S 2S QC AH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9D 9H JH TC QH	player two: 3C 2S JS 5C 7H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 6C 3S 3D 2S 4S	player two: QD 2D TH 5D 2C
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 2D 6H 6D 2S JC	player two: QH AS 7H 4H KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5H 6S KS AD TC	player two: TS 7C AC 4S 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 3C 4H QS 8C	player two: 9D KS 2H 2D 4D
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 4S 9D 6C 6D 9C	player two: AC 8D 3H 7H KD
+
+player one: one pair		player two: high hand
+player one wins
+player one: JC AH 6C TS JD	player two: 6D AD 3S 5D QD
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: JC JH JD 3S 7S	player two: 8S JS QC 3H 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD TH 5C 2C AD	player two: JS 7H 9S 2H 7S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8D 3S JH 4D QC	player two: AS JD 2C KC 6H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C AC 5H KD 5S	player two: 7H QD JH AH 2D
+
+player one: one pair		player two: one pair
+player one wins
+player one: JC QH 8D 8S TC	player two: 5H 5C AH 8C 6C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 3H JS 8S QD JH	player two: 3C 4H 6D 5C 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D 4S 4C AH 5H	player two: 5S 3H JD 7C 8D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8H AH 2H 3H JS	player two: 3C 7D QC 4H KD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 6S 2H KD 5H 8H	player two: 2D 3C 8S 7S QD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 2S 7S KC QC AH	player two: TC QS 6D 4C 8D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 9H 2C 3S QD	player two: 7S 6C 2H 7C 9D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3C 6C 5C 5S JD	player two: JC KS 3S 5D TS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C KS 6S 5S 2S	player two: 2D TC 2H 5H QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: AS 7H 6S TS 5H	player two: 9S 9D 3C KD 2H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4S JS QS 3S 4H	player two: 7C 2S AC 6S 9D
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: 8C JH 2H 5H 7C	player two: 5D QH QS KH QC
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 3S TD 3H 7C KC	player two: 8D 5H 8S KH 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4H KH JD TS 3C	player two: 7H AS QC JS 5S
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: AH 9D 2C 8D 4D	player two: 2D 6H 6C KC 6S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2S 6H 9D 3S 7H	player two: 4D KH 8H KD 3D
+
+player one: high hand		player two: high hand
+player one wins
+player one: 9C TC AC JH KH	player two: 4D JD 5H TD 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S 4H 9D AS 4C	player two: 7D QS 9S 2S KH
+
+player one: three of a kind		player two: one pair
+player one wins
+player one: 3S 8D 8S KS 8C	player two: JC 5C KH 2H 5D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8S QH 2C 4D KC	player two: JS QC 9D AC 6H
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 8S 8C 7C JS JD	player two: 6S 4C 9C AC 4S
+
+player one: high hand		player two: one pair
+player two wins
+player one: QH 5D 2C 7D JC	player two: 8S 2D JS JH 4C
+
+player one: one pair		player two: one pair
+player two wins
+player one: JS 4C 7S TS JH	player two: KC KH 5H QD 4S
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 8C 8D 2D 6S	player two: TD 9D AC QH 5S
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QH QC JS 3D 3C	player two: 5C 4H KH 8S 7H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 2C 5S JC 8S	player two: 3H QC 5D 2H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5S 8D KD 6H 4H	player two: QD QH 6D AH 3D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S KS 6C 2S 4D	player two: AC QS 5H TS JD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 2D TC 5D QS	player two: AC JS QC 6C KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2C KS 4D 3H TS	player two: 8S AD 4H 7S 9S
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 9H QH 5H 4H	player two: 4D KH 3S JC AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D AC KC 8D 6D	player two: 4C 2D KH 2C JD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2C 9H 2D AH 3H	player two: 6D 9C 7D TC KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C 3H KD 7C 5C	player two: 2S 4S 5H AS AH
+
+player one: high hand		player two: high hand
+player two wins
+player one: TH JD 4H KD 3H	player two: TC 5C 3S AC KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D 7H AH 7S QC	player two: 6H 2D TD JD AS
+
+player one: high hand		player two: high hand
+player two wins
+player one: JH 5D 7H TC 9S	player two: 7D JC AS 5S KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2H 8C AD TH 6H	player two: QD KD 9H 6S 6C
+
+player one: high hand		player two: one pair
+player two wins
+player one: QH KC 9D 4D 3S	player two: JS JH 4H 2C 9H
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC 7H KH 4H JC	player two: 7D 9S 3H QS 7S
+
+player one: one pair		player two: two pairs
+player two wins
+player one: AD 7D JH 6C 7H	player two: 4H 3S 3H 4D QH
+
+player one: high hand		player two: high hand
+player one wins
+player one: JD 2H 5C AS 6C	player two: QC 4D 3C TC JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC JD 3H 6H 4C	player two: JC AD 7D 7H 9H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4H TC TS 2C 8C	player two: 6S KS 2H JD 9S
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4C 3H QS QC 9S	player two: 9H 6D KC 9D 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5C AD 8C 2C QH	player two: TH QD JC 8D 8H
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QC 2C 2S QD 9C	player two: 4D 3S 8D JH QS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 9D 3S 2C 7S 7C	player two: JC TD 3C TC 9H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3C TS 8H 5C 4C	player two: 2C 6S 8D 7C 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: KS 7H 2H TC 4H	player two: 2C 3S AS AH QS
+
+player one: three of a kind		player two: straight
+player two wins
+player one: 8C 2D 2H 2C 4S	player two: 4C 6S 7D 5S 3S
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: TH QC 5D TD 3C	player two: QS KD KC KS AS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4D AH KD 9H KS	player two: 5C 4C 6H JC 7S
+
+player one: high hand		player two: high hand
+player two wins
+player one: KC 4H 5C QS TC	player two: 2H JC 9S AH QH
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4S 9H 3H 5H 3C	player two: QD 2H QC JH 8H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D AS 7H 2C 3D	player two: JH 6H 4C 6S 7D
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 9C JD 9H AH JS	player two: 8S QH 3H KS 8H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S AC QC TS 4D	player two: AD 3D AH 8S 9H
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 7H 3H QS 9C 9S	player two: 5H JH JS AH AC
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8D 3C JD 2H AC	player two: 9C 7H 5S 4D 8H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7C JH 9H 6C JS	player two: 9S 7H 8C 9D 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D AS 9S 6H 4D	player two: JS JH 9H AD QD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 6H 7S JH KH AH	player two: 7H TD 5S 6S 2C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8H JH 6S 5H 5S	player two: 9D TC 4C QC 9S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7D 2C KD 3H 5H	player two: AS QD 7H JS 4D
+
+player one: one pair		player two: two pairs
+player two wins
+player one: TS QH 6C 8H TH	player two: 5H 3C 3H 9C 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD KH JS 5D 3H	player two: AS AC 9S 5C KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2C KH 8C JC QS	player two: 6D AH 2D KC TC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9D 3H 2S 7C 4D	player two: 6D KH KS 8D 7D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9H 2S TC JH AC	player two: QC 3H 5S 3S 8H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3S AS KD 8H 4C	player two: 3H 7C JH QH TS
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7S 6D 7H 9D JH	player two: 4C 3D 3S 6C AS
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 4S 2H 2C 4C 8S	player two: 5H KC 8C QC QD
+
+player one: two pairs		player two: one pair
+player one wins
+player one: 3H 3S 6C QS QC	player two: 2D 6S 5D 2C 9D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 8D JH 2S 3H	player two: 2D 6C 5C 7S AD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H JS 5D QH 8S	player two: TS 2H 7S 6S AD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6D QC 9S 7H 5H	player two: 5C 7D KC JD 4H
+
+player one: one pair		player two: high hand
+player one wins
+player one: QC 5S 9H 9C 4D	player two: 6S KS 2S 4C 7C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9H 7C 4H 8D 3S	player two: 6H 5C 8H JS 7S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2D 6H JS TD 4H	player two: 4D JC TH 5H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: AC 7C 8D TH 3H	player two: 9S 2D 4C KC 4D
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD QS 9C 7S 3D	player two: KS AD TS 4C 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: QH 9C 8H 2S 7D	player two: KS 7H 5D KD 4C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9C 2S 2H JC 6S	player two: 6C TC QC JH 5C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7S AC 8H KC 8S	player two: 6H QS JC 3D 6S
+
+player one: one pair		player two: one pair
+player one wins
+player one: JS 2D JH 8C 4S	player two: 6H 8H 6D 5D AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6H 7D 2S 4H 9H	player two: 7C AS AC 8H 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C JS 4S 6D 5H	player two: 2S QH 6S 9C 2C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3D 5S 6S 9S 4C	player two: QS 8D QD 8S TC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9C 3D AH 9H 5S	player two: 2C 7D AD JC 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7H TC AS 3C 6S	player two: 6D 7S KH KC 9H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3S TC 8H 6S 5H	player two: JH 8C 7D AC 2S
+
+player one: one pair		player two: one pair
+player one wins
+player one: QD 9D 9C 3S JC	player two: 8C KS 8H 5D 4D
+
+player one: one pair		player two: two pairs
+player two wins
+player one: JS AH JD 6D 9D	player two: 8C 9H 9S 8H 3H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 2D 6S 4C 4D 8S	player two: AD 4S TC AH 9H
+
+player one: one pair		player two: high hand
+player one wins
+player one: TS AC QC TH KC	player two: 6D 4H 7S 8C 2H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C QD JS 9D 5S	player two: JC AH 2H TS 9H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3H 4D QH 5D 9C	player two: 5H 7D 4S JC 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8S TH 3H 7C 2H	player two: JD JS TS AC 8D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 9C 2H TD KC JD	player two: 2S 8C 5S AD 2C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D KD 7C 5H 4D	player two: QH QD TC 6H 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 7H 2C KC 5S KD	player two: 6H AH QC 7S QH
+
+player one: one pair		player two: one pair
+player one wins
+player one: 6H 5C AC 5H 2C	player two: 9C 2D 7C TD 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4D 9D AH 3D 7C	player two: JD 4H 8C 4C KS
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 3C JS QH 8H	player two: 4C AS 3D QS QC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4D 7S 5H JH 6D	player two: 7D 6H JS KH 3C
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD 8S 7D 2H 2C	player two: 7C JC 2S 5H 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: QH 8S 9D TC 2H	player two: AD 7C 8D QD 6S
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3S 7C AD 9H 2H	player two: 9S JD TS 4C 2D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3S AS 4H QC 2C	player two: 8H 8S 7S TD TC
+
+player one: one pair		player two: one pair
+player one wins
+player one: JH TH TD 3S 4D	player two: 4H 5S 5D QS 2C
+
+player one: one pair		player two: two pairs
+player two wins
+player one: 8C QD QH TC 6D	player two: 4S 9S 9D 4H QC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8C JS 9D 6H JD	player two: 3H AD 6S TD QC
+
+player one: high hand		player two: high hand
+player one wins
+player one: KC 8S 3D 7C TD	player two: 7D 8D 9H 4S 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 4S 3D 9D KD	player two: TC KC KS AC 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C 6S QH 3D JS	player two: KD 6H 6D 2D 8C
+
+player one: high hand		player two: high hand
+player two wins
+player one: JD 2S 5S 4H 8S	player two: AC 2D 6S TS 5C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5H 8C 5S 3C 4S	player two: 3D 7C 8D AS 3H
+
+player one: one pair		player two: one pair
+player one wins
+player one: AS TS 7C 3H AD	player two: 7D JC QS 6C 6H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S 9S 4C AC QH	player two: 5H 5D 9H TS 4H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 6C 5C 7H 7S TD	player two: AD JD 5S 2H 2S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7D 6C KC 3S JD	player two: 8D 8S TS QS KH
+
+player one: one pair		player two: one pair
+player two wins
+player one: 8S QS 8D 6C TH	player two: AC AH 2C 8H 9S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7H TD KH QH 8S	player two: 3D 4D AH JD AS
+
+player one: one pair		player two: one pair
+player two wins
+player one: TS 3D 2H JC 2S	player two: JH KH 6C QC JS
+
+player one: high hand		player two: high hand
+player one wins
+player one: KC TH 2D 6H 7S	player two: 2S TC 8C 9D QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C 9D 6S KH 8H	player two: 6D 5D TH 2C 2H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6H TC 7D AD 4D	player two: 8S TS 9H TD 7S
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: JS 6D JD JC 2H	player two: AC 6C 3D KH 8D
+
+player one: high hand		player two: high hand
+player one wins
+player one: KH JD 9S 5D 4H	player two: 4C 3H 7S QS 5C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4H JD 5D 3S 3C	player two: 4D KH QH QS 7S
+
+player one: high hand		player two: straight
+player two wins
+player one: JD TS 8S QD AH	player two: 4C 6H 3S 5S 2C
+
+player one: high hand		player two: high hand
+player one wins
+player one: QS 3D JD AS 8D	player two: TH 7C 6S QC KS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7S 2H 8C QC 7H	player two: AC 6D 2D TH KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5S 6C 7H KH 7D	player two: AH 8C 5C 7S 3D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C KD AD 7D 6C	player two: 4D KS 2D 8C 4S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7C 8D 5S 2D 2S	player two: AH AD 2C 9D TD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 3C AD 4S KS JH	player two: 7C 5C 8C 9C TH
+
+player one: high hand		player two: high hand
+player one wins
+player one: AS TD 4D 7C JD	player two: 8C QH 3C 5H 9S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3H 9C 8S 9S 6S	player two: QD KS AH 5H JH
+
+player one: high hand		player two: high hand
+player two wins
+player one: QC 9C 5S 4H 2H	player two: TD 7D AS 8C 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8C 2C 9D KD TC	player two: 7S 3D KH QC 3C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4D AS 4C QS 5S	player two: 9D 6S JD QH KS
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D AH 6C 4C 5H	player two: TS 9H 7D 3D 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS JD 7C 8D 9C	player two: AC 3S 6S 6C KH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 8H JH 5D 9S 6D	player two: AS 6S 3S QC 7H
+
+player one: high hand		player two: one pair
+player two wins
+player one: QD AD 5C JH 2H	player two: AH 4H AS KC 2C
+
+player one: one pair		player two: high hand
+player one wins
+player one: JH 9C 2C 6H 2D	player two: JS 5D 9H KC 6D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 7D 9D KD TH 3H	player two: AS 6S QC 6H AD
+
+player one: high hand		player two: one pair
+player two wins
+player one: JD 4H 7D KC 3H	player two: JS 3C TH 3D QS
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 3H 8C QD 5H	player two: 6H AS 8H AD JD
+
+player one: high hand		player two: one pair
+player two wins
+player one: TH 8S KD 5D QC	player two: 7D JS 5S 5H TS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7D KC 9D QS 3H	player two: 3C 6D TS 7S AH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7C 4H 7H AH QC	player two: AC 4D 5D 6D TH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3C 4H 2S KD 8H	player two: 5H JH TC 6C JD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 4S 8C 3D 4H JS	player two: TD 7S JH QS KD
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7C QC KD 4D 7H	player two: 6S AD TD TC KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5H 9H KC 3H 4D	player two: 3D AD 6S QD 6H
+
+player one: one pair		player two: high hand
+player one wins
+player one: TH 7C 6H TS QH	player two: 5S 2C KC TD 6S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7C 4D 5S JD JH	player two: 7D AC KD KH 4H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 7D 6C 8D 8H 5C	player two: JH 8S QD TH JD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8D 7D 6C 7C 9D	player two: KD AS 5C QH JH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9S 2C 8C 3C 4C	player two: KS JH 2D 8D 4H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S 6C JH KH 8H	player two: 3H 9D 2D AH 6D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 4D TC 9C 8D 7H	player two: TD KS TH KD 3C
+
+player one: high hand		player two: two pairs
+player two wins
+player one: JD 9H 8D QD AS	player two: KD 9D 2C 2S 9C
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8D 3H 5C 7H KS	player two: 5H QH 2D 8C 9H
+
+player one: one pair		player two: one pair
+player one wins
+player one: 2D TH 6D QD 6C	player two: KC 3H 3S AD 4C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4H 3H JS 9D 3C	player two: TC 5H QH QC JC
+
+player one: three of a kind		player two: high hand
+player one wins
+player one: 3D 5C 6H 3S 3C	player two: JC 5S 7S 2S QH
+
+player one: one pair		player two: one pair
+player one wins
+player one: AC 5C 8C 4D 5D	player two: 4H 2S QD 3C 3H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2C TD AH 9C KD	player two: JS 6S QD 4C QC
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS 8C 3S 4H TC	player two: JS 3H 7C JC AD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 5H 4D 9C KS JC	player two: TD 9S TS 8S 9H
+
+player one: one pair		player two: high hand
+player one wins
+player one: QD TS 7D AS AC	player two: 2C TD 6H 8H AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S AD 8C 4S 9H	player two: 8D 9D KH 8S 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS 4D 2D 7S KH	player two: JS JC AD 4C 3C
+
+player one: high hand		player two: one pair
+player two wins
+player one: QS 9S 7H KC TD	player two: TH 5H JS AC JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6D AC 2S QS 7C	player two: AS KS 6S KH 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6D 8H KH 3C QS	player two: 2H 5C 9C 9D 6C
+
+player one: high hand		player two: high hand
+player two wins
+player one: JS 2C 4C 6H 7D	player two: JC AC QD TD 3H
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: 4H QC 8H JD 4C	player two: KD KS 5C KC 7S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D 2D 3H 2S QD	player two: 5S 7H AS TH 6S
+
+player one: one pair		player two: high hand
+player one wins
+player one: AS 6D 8D 2C 8S	player two: TD 8H QD JC AH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9C 9H 2D TD QH	player two: 2H 5C TC 3D 8H
+
+player one: one pair		player two: one pair
+player one wins
+player one: KC 8S 3D KH 2S	player two: TS TC 6S 4D JH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9H 9D QS AC KC	player two: 6H 5D 4D 8D AH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9S 5C QS 4H 7C	player two: 7D 2H 8S AD JS
+
+player one: one pair		player two: one pair
+player one wins
+player one: 3D AC 9S AS 2C	player two: 2D 2H 3H JC KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7H QH KH JD TC	player two: KS 5S 8H 4C 8D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2H 7H 3S 2S 5H	player two: QS 3C AS 9H KD
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 3D JD 6H 5S	player two: 9C 6D AC 9S 3S
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D 5D 9C 2D AC	player two: 4S 2S AD 6C 6S
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC 4C 2D 3H 6S	player two: KC QH QD 2H JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC 3C 8S 4D 9S	player two: 2H 5C 8H QS QD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 6D KD 6S 7H 3S	player two: KH 2H 5C JC 6C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3S 9S TC 6S 8H	player two: 2D AD 7S 8S TS
+
+player one: one pair		player two: one pair
+player two wins
+player one: 3C 6H 9C 3H 5C	player two: JC 8H QH TD QD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C JS QD 5D TD	player two: 2C KH 9H TH AS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9S TC JD 3D 5C	player two: 5H AD QH 9H KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: TC 7H 4H 8H 3H	player two: TD 6S AC 7C 2S
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 9D 5D 3C JC	player two: KS 4D 6C JH 2S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 9S 6S 3C 7H TS	player two: 4C KD 6D 3D 9C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D 9H AH AC 7H	player two: 2S JH 3S 7C QC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: QD 9H 3C 2H AC	player two: AS 8S KD 8C KH
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D 7S TD TH 6D	player two: JD 8D 4D 2H 5S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8S QH KD JD QS	player two: JH 4D KC 5H 3S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 3C KH QC 6D 8H	player two: 3S AH 7D TD 2D
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 5S 9H QH 4S 6S	player two: 6C 6D TS TH 7S
+
+player one: one pair		player two: one pair
+player two wins
+player one: 6C 4C 6D QS JS	player two: 9C TS 3H 8D 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JS 5C 7S AS 2C	player two: AH 2H AD 5S TC
+
+player one: one pair		player two: one pair
+player one wins
+player one: KD 6C 9C 9D TS	player two: 2S JC 4H 2C QD
+
+player one: high hand		player two: high hand
+player two wins
+player one: QS 9H TC 3H KC	player two: KS 4H 3C AD TH
+
+player one: two pairs		player two: high hand
+player one wins
+player one: KH 9C 2H KD 9D	player two: TC 7S KC JH 2D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 7C 3S KC AS 8C	player two: 5D 9C 9S QH 3H
+
+player one: one pair		player two: high hand
+player one wins
+player one: 2D 8C TD 4C 2H	player two: QC 5D TC 2C 7D
+
+player one: high hand		player two: high hand
+player two wins
+player one: KS 4D 6C QH TD	player two: KH 5D 7C AD 8D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 2S 9S 8S 4C 8C	player two: 3D 6H QD 7C 7H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 8S QH 5H TS	player two: 5C 3C 4S 2S 2H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8S 6S 2H JC 3S	player two: 3H 9D 8C 2S 7H
+
+player one: high hand		player two: one pair
+player two wins
+player one: QC 2C 8H 9C AC	player two: JD 4C 4H 6S 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 3H 3S 7D 4C 9S	player two: 5H 8H JC 3D TC
+
+player one: one pair		player two: one pair
+player two wins
+player one: QH 2S 2D 9S KD	player two: QD 9H AD 6D 9C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8D 2D KS 9S JC	player two: 4C JD KC 4S TH
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH TS 6D 4D 5C	player two: KD 5H AS 9H AD
+
+player one: high hand		player two: two pairs
+player two wins
+player one: QD JS 7C 6D 5D	player two: 5C TH 5H QH QS
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 9D QH KH 5H JH	player two: 4C 4D TC TH 6C
+
+player one: one pair		player two: high hand
+player one wins
+player one: KH AS TS 9D KD	player two: 9C 7S 4D 8H 5S
+
+player one: high hand		player two: one pair
+player two wins
+player one: KH AS 2S 7D 9D	player two: 4C TS TH AH 7C
+
+player one: high hand		player two: high hand
+player one wins
+player one: KS 4D AC 8S 9S	player two: 8D TH QH 9D 5C
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5D 5C 8C QS TC	player two: 4C 3D 3S 2C 8D
+
+player one: one pair		player two: high hand
+player one wins
+player one: 9D KS 2D 3C KC	player two: 4S 8C KH 6C JC
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8H AH 6H 7D 7S	player two: QD 3C 4C 6C KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3H 2C QH 8H AS	player two: 7D 4C 8C 4H KC
+
+player one: high hand		player two: high hand
+player two wins
+player one: QD 5S 4H 2C TD	player two: AH JH QH 4C 8S
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3H QS 5S JS 8H	player two: 2S 9H 9C 3S 2C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6H TS 7S JC QD	player two: AC TD KC 5S 3H
+
+player one: one pair		player two: one pair
+player one wins
+player one: QH AS QS 7D JC	player two: KC 2C 4C 5C 5S
+
+player one: high hand		player two: high hand
+player one wins
+player one: QH 3D AS JS 4H	player two: 8D 7H JC 2S 9C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5D 4D 2S 4S 9D	player two: 9C 2D QS 8H 7H
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6D 7H 3H JS TS	player two: AC 2D JH 7C 8S
+
+player one: high hand		player two: one pair
+player two wins
+player one: JH 5H KC 3C TC	player two: 5S 9H 4C 8H 9D
+
+player one: high hand		player two: one pair
+player two wins
+player one: 8S KC 5H 9H AD	player two: KS 9D KH 8D AH
+
+player one: high hand		player two: high hand
+player two wins
+player one: JC 2H 9H KS 6S	player two: 3H QC 5H AH 9C
+
+player one: one pair		player two: one pair
+player two wins
+player one: 5C KH 5S AD 6C	player two: JC 9H QC 9C TD
+
+player one: one pair		player two: high hand
+player one wins
+player one: 5S 5D JC QH 2D	player two: KS 8H QS 2H TS
+
+player one: one pair		player two: high hand
+player one wins
+player one: JH 5H 5S AH 7H	player two: 3C 8S AS TD KH
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6H 3D JD 2C 4C	player two: KC 7S AH 6C JH
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4C KS 9D AD 7S	player two: KC 7D 8H 3S 9C
+
+player one: one pair		player two: high hand
+player one wins
+player one: 7H 5C 5H 3C 8H	player two: QC 3D KH 6D JC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 2D 4H 5D 7D QC	player two: AD AH 9H QH 8H
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD 8C JS 9D 3S	player two: 3C 2H 5D 6D 2S
+
+player one: one pair		player two: high hand
+player one wins
+player one: 8S 6S TS 3C 6H	player two: 8D 5S 3H TD 6C
+
+player one: high hand		player two: high hand
+player one wins
+player one: KS 3D JH 9C 7C	player two: 9S QS 5S 4H 6H
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 7S 6S TH 4S KC	player two: KD 3S JC JH KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7C 3C 2S 6D QH	player two: 2C 7S 5H 8H AH
+
+player one: one pair		player two: one pair
+player one wins
+player one: KC 8D QD 6D KH	player two: 5C 7H 9D 3D 9C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 6H 2D 8S JS 9S	player two: 2S 6D KC 7C TC
+
+player one: one pair		player two: high hand
+player one wins
+player one: KD 9C JH 7H KC	player two: 8S 2S 7S 3D 6H
+
+player one: one pair		player two: one pair
+player two wins
+player one: 4H 9H 2D 4C 8H	player two: 7H 5S 8S 2H 8D
+
+player one: one pair		player two: high hand
+player one wins
+player one: AD 7C 3C 7S 5S	player two: 4D 9H 3D JC KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 5D AS 7D 6D 9C	player two: JC 4C QH QS KH
+
+player one: high hand		player two: one pair
+player two wins
+player one: KD JD 7D 3D QS	player two: QC 8S 6D JS QD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 8C 5S QH TH	player two: 9H AS AC 2C JD
+
+player one: one pair		player two: one pair
+player one wins
+player one: QC KS QH 7S 3C	player two: 4C 5C KC 5D AH
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6C 4H 9D AH 2C	player two: 3H KD 3D TS 5C
+
+player one: high hand		player two: one pair
+player two wins
+player one: TD 8S QS AS JS	player two: 3H KD AC 4H KS
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7D 5D TS 9H 4H	player two: 4C 9C 2H 8C QC
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2C 7D 9H 4D KS	player two: 4C QH AD KD JS
+
+player one: one pair		player two: three of a kind
+player two wins
+player one: QD AD AH KH 9D	player two: JS 9H JC KD JD
+
+player one: high hand		player two: high hand
+player one wins
+player one: 8S 3C 4S TS 7S	player two: 4D 5C 2S 6H 7C
+
+player one: high hand		player two: high hand
+player one wins
+player one: JS 7S 5C KD 6D	player two: QH 8S TD 2H 6S
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QH 6C TC 6H TD	player two: 4C 9D 2H QC 8H
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3D TS 4D 2H 6H	player two: 6S 2C 7H 8S 6C
+
+player one: two pairs		player two: high hand
+player one wins
+player one: 9H 9D JD JH 3S	player two: AH 2C 6S 3H 8S
+
+player one: high hand		player two: high hand
+player two wins
+player one: 2C QS 8C 5S 3H	player two: 2S 7D 3C AD 4S
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5C QC QH AS TS	player two: 4S 6S 4C 5H JS
+
+player one: high hand		player two: one pair
+player two wins
+player one: JH 5C TD 4C 6H	player two: JS KD KH QS 4H
+
+player one: high hand		player two: one pair
+player two wins
+player one: TC KH JC 4D 9H	player two: 9D 8D KC 3C 8H
+
+player one: high hand		player two: high hand
+player one wins
+player one: 2H TC 8S AD 9S	player two: 4H TS 7H 2C 5C
+
+player one: high hand		player two: high hand
+player two wins
+player one: 4H 2S 6C 5S KS	player two: AH 9C 7C 8H KD
+
+player one: two pairs		player two: high hand
+player one wins
+player one: TS QH TD QS 3C	player two: JH AH 2C 8D 7D
+
+player one: one pair		player two: one pair
+player one wins
+player one: 5D KC 3H 5S AC	player two: 4S 7H QS 4C 2H
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 3D 7D QC KH JH	player two: 6D 6C TD TH KD
+
+player one: high hand		player two: high hand
+player two wins
+player one: 5S 8D TH 6C 9D	player two: 7D KH 8C 9S 6D
+
+player one: one pair		player two: high hand
+player one wins
+player one: JD QS 7S QC 2S	player two: QH JC 4S KS 8D
+
+player one: high hand		player two: high hand
+player two wins
+player one: 7S 5S 9S JD KD	player two: 9C JC AD 2D 7C
+
+player one: high hand		player two: high hand
+player one wins
+player one: 4S 5H AH JH 9C	player two: 5D TD 7C 2D 6S
+
+player one: one pair		player two: high hand
+player one wins
+player one: KC 6C 7H 6S 9C	player two: QD 5S 4H KS TD
+
+player one: high hand		player two: one pair
+player two wins
+player one: 6S 8D KS 2D TH	player two: TD 9H JD TS 3S
+
+player one: high hand		player two: three of a kind
+player two wins
+player one: KH JS 4H 5D 9D	player two: TC TD QC JD TS
+
+player one: two pairs		player two: high hand
+player one wins
+player one: QS QD AC AD 4C	player two: 6S 2D AS 3H KC
+
+player one: high hand		player two: one pair
+player two wins
+player one: 4C 7C 3C TD QS	player two: 9C KC AS 8D AD
+
+player one: high hand		player two: high hand
+player two wins
+player one: KC 7H QC 6D 8H	player two: 6S 5S AH 7S 8C
+
+player one: high hand		player two: one pair
+player two wins
+player one: 3S AD 9H JC 6D	player two: JD AS KH 6S JH
+
+player one: high hand		player two: one pair
+player two wins
+player one: AD 3D TS KS 7H	player two: JH 2D JS QD AC
+
+player one: high hand		player two: two pairs
+player two wins
+player one: 9C JD 7C 6D TC	player two: 6H 6C JC 3D 3S
+
+player one: one pair		player two: high hand
+player one wins
+player one: QC KC 3S JC KD	player two: 2C 8D AH QS TS
+
+player one: high hand		player two: high hand
+player one wins
+player one: AS KD 3D JD 8H	player two: 7C 8C 5C QD 6C
+
+player one wins: 376
+player two wins: 624

@@ -1,0 +1,87 @@
+// Project Euler Problem: 32
+// Goal: find all 1-9 pandigital prime products.
+// Author: Cooper Bell
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include "sieve_of_atkin.h"
+
+// Function prototypes
+int num_digs(int);
+int * mal_check(int);
+bool incl_check(int, int, int *);
+
+int main() {
+    int lim = 10000;
+    int * primes = sieve(lim);    // All primes under four digits
+    int count = size_of_sieve(primes);
+    
+    int * two_dig_ps = mal_check(count*sizeof(int));
+    int * three_dig_ps = mal_check(count*sizeof(int));
+    int * four_dig_ps = mal_check(count*sizeof(int));
+
+    int i, j;
+    j = 0;
+    for(i=0; i < count; i++) {    // Find all two digit primes
+        if(num_digs(primes[i]) == 2) {
+            two_dig_ps[j] = primes[i];
+            j++;
+        }
+    }
+
+    int two_size = j;
+    j = 0;
+    for(i=0; i < count; i++) {    // Find all three digit primes
+        if(num_digs(primes[i]) == 3) {
+            three_dig_ps[j] = primes[i];
+            j++;
+        }
+    }
+    
+    int three_size = j;
+    j = 0;
+    for(i=0; i < count; i++) {    // Find all four digit primes
+        if(num_digs(primes[i]) == 4) {
+            four_dig_ps[j] = primes[i];
+            j++;
+        }
+    }
+
+    int four_size = j;
+    
+    bool check = incl_check(7254, four_size, four_dig_ps);
+    printf("%s", (check)?"true":"false");
+
+    return 0;
+}
+
+// Finds the number of digits of a number
+int num_digs(int num) {
+    int count = 0;
+    while (num != 0) {
+        num = num/10;
+        count++;
+    }
+    return count;
+}
+
+// Error checking malloc
+int * mal_check(int size) {
+    int * pointer = (int *) malloc(size);
+    if(pointer == NULL) {
+        printf("Error allocating memory!\n");   // Error message
+        return 1;
+    }
+    return pointer;
+}
+
+// Checks for inclusion in an array
+bool incl_check(int num, int len, int * arr) {
+    int i;
+    for(i=0; i < len; i++) {
+        if(arr[i] == num)
+            return true;
+    }
+    return false;
+}
