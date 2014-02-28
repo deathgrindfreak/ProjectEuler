@@ -59,7 +59,7 @@
 
 
 ;;; search for cyclical 6-tuple
-(define (pair-search)
+;(define (pair-search)
 
   ;; figurative number list
   (define figs (list tri squ pen hex hep oct))
@@ -78,34 +78,37 @@
   (define (cyc-test i j k pos-lst)
     (cond
       ;; if length of pos-lst is six, then we have our list
+      ;[(and (= (length pos-lst) 5) (cyc-pair? (fig-lst 0 (list-ref (list-ref pos-lst 0) 0)) 
+      ;                                        (fig-lst 5 (list-ref (list-ref pos-lst 4) 1)))) 
+      ; (reverse pos-lst)]
       [(= (length pos-lst) 5) (reverse pos-lst)]
       ;; if a match, shift to next two lists
       [(cyc-pair? (fig-lst i j) (fig-lst (+ i 1) k))
-       (cyc-test (+ i 1) k 0 (cons (list j k) pos-lst))]
+       (cyc-test (+ i 1) k 0 (cons (list i j k) pos-lst))]
       ;; if not, and k < length of iter list: goto next element
-      [(< k (length (list-ref figs (+ i 1))))
+      [(< k (- (length (list-ref figs (+ i 1))) 1))
        (cyc-test i j (+ k 1) pos-lst)]
       ;; else, run out of room: iterate j
-      [else (if (= i 0)
+      [else (if (and (= i 0) (< j (length (list-ref figs i))))
               (cyc-test 0 (+ j 1) 0 empty)
               (cyc-test 0 (+ (list-ref (list-ref pos-lst 0) 0) 1) 0 empty))]))
 
-  ;; convert list of "coordinates" to actual list
-  (define (lst-conv pos-lst)
-    (define (lst-conv-in pos-lst actual index)
-      (if (= index 6)
-        actual
-        (lst-conv-in pos-lst 
-                     (cons (list-ref figs 
-                                     (list-ref (list-ref pos-lst index) 
-                                               0)) 
-                           actual)
-                     (+ index 1))))
+  ;;; convert list of "coordinates" to actual list
+  ;(define (lst-conv pos-lst)
+  ;  (define (lst-conv-in pos-lst actual index)
+  ;    (if (= index 6)
+  ;      actual
+  ;      (lst-conv-in pos-lst 
+  ;                   (cons (list-ref figs 
+  ;                                   (list-ref (list-ref pos-lst index) 
+  ;                                             0)) 
+  ;                         actual)
+  ;                   (+ index 1))))
 
-    (lst-conv-in  empty 0))
+  ;  (lst-conv-in  empty 0))
 
-  (lst-conv (cyc-test 0 0 0 empty)))
+  ;(lst-conv (cyc-test 0 0 0 empty)))
 
 
 ;;; search!!!
-(pair-search)
+;(pair-search)
