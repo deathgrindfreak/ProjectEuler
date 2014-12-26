@@ -4,7 +4,7 @@
 
 import string
 
-tri = open('prob67num.txt', 'r')
+tri = open('triangle.txt', 'r')
 tri_nums = []
 
 for row in tri:
@@ -13,16 +13,16 @@ for row in tri:
 
 for j in tri_nums:
 	j[:] = [int(i) for i in j]
-	
+
 def row_reduce(tris):
 	new_row = []
 	for i in range(len(tris[-2])):
 		new_row.append( tris[-2][i] + max( tris[-1][i], tris[-1][i+1] ) )
-	
+
 	tris[-2] = new_row
 	tris[:] = tris[:-1]
-	
+
 	return tris
-	
+
 for _ in xrange(len(tri_nums)-1):
 	print row_reduce(tri_nums)
