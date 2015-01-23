@@ -63,6 +63,14 @@
              lst)))
 
 
-;; (define (iter-perm-check)
-;;   "Checks elements against a list to look for cubic permutations"
-;;   (let loop (())))
+(define (iter-perm-check lst)
+  "Checks elements against a list to look for cubic permutations"
+  (let loop ((i (car lst)) (lst (cdr lst)))
+    (if (null? lst)
+        #f
+        (if (= (number-of-permutations i lst) 3)
+            i
+            (loop (car lst) (cdr lst))))))
+
+
+(iter-perm-check (cube-range 1 1000))
