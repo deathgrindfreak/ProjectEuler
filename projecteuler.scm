@@ -6,6 +6,26 @@
             sieve-of-eratosthenes))
 
 
+(define (range . args)
+  "Returns a python style range of numbers"
+  (let ((range-fun (lambda (l h step)
+                     (let loop ((l l) (lst '()))
+                       (if (>= l h)
+                           (reverse lst)
+                           (loop (+ l step) (cons l lst)))))))
+    (case (length args)
+      ((1) (range-fun 0 (car args) 1))
+      ((2) (range-fun (car args)
+                      (cadr args)
+                      1))
+      ((3) (range-fun (car args)
+                      (cadr args)
+                      (caddr args)))
+      (else (error "Incorrect number of arguments")))))
+
+
+
+
 ;;; Determines if a number is probably prime using the miller-rabin
 ;;; primality test (returns #t for probably prime, #f for composite
 (define (miller-rabin n k)

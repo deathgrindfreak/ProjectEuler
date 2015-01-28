@@ -1,25 +1,8 @@
-(use-modules (srfi srfi-1)
-             (srfi srfi-11))
-
-;;; Need to put most of these functions in my "Standard Module"
+#lang racket
 
 
-(define (range . args)
-  "Returns a python style range of numbers"
-  (let ((range-fun (lambda (l h step)
-                     (let loop ((l l) (lst '()))
-                       (if (>= l h)
-                           (reverse lst)
-                           (loop (+ l step) (cons l lst)))))))
-    (case (length args)
-      ((1) (range-fun 0 (car args) 1))
-      ((2) (range-fun (car args)
-                      (cadr args)
-                      1))
-      ((3) (range-fun (car args)
-                      (cadr args)
-                      (caddr args)))
-      (else (error "Incorrect number of arguments")))))
+(define (cube-range n)
+  (build-list n (lambda (x) (* x x x))))
 
 
 (define (number->list n)
@@ -32,13 +15,6 @@
   (reverse (lst-help n)))
 
 
-(define (ispermutation? n m)
-  "Determines if a number is a permutation of another number"
-  (let ((n-lst (sort-list (number->list n) <))
-        (m-lst (sort-list (number->list m) <)))
-    (if (equal? n-lst m-lst) #t #f)))
-
-
 (define (number-of-digits n)
   "Determines the number of digits of a number"
   (if (zero? n)
@@ -47,20 +23,21 @@
          (number-of-digits (quotient n 10)))))
 
 
-(define (cube-range . args)
-  "Returns a range of numbers cubed"
-  (let ((cube (lambda (n) (* n n n))))
-    (map cube (apply range args))))
+(define (ispermutation? n m)
+  "Determines if a number is a permutation of another number"
+  (let ((n-lst (sort (number->list n) <))
+        (m-lst (sort (number->list m) <)))
+    (if (equal? n-lst m-lst) #t #f)))
 
 
 (define (number-of-permutations n lst)
   "Returns the number of permutations of a number in a list"
-  (fold + 0
-        (map (lambda (m)
-               (if (ispermutation? n m)
-                   1
-                   0))
-             lst)))
+  (foldr (lambda (m l)
+           (if (ispermutation? n m)
+               (+ 1 l)
+               l))
+         0
+         lst))
 
 
 (define (iter-perm-check lst)
