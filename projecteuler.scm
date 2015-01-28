@@ -5,6 +5,39 @@
   #:export (miller-rabin
             sieve-of-eratosthenes))
 
+(define (number->list n)
+  "Converts a number to a list"
+  (define (lst-help n)
+    (if (zero? n)
+        '()
+        (cons (remainder n 10)
+              (lst-help (quotient n 10)))))
+  (reverse (lst-help n)))
+
+
+(define (number-of-digits n)
+  "Determines the number of digits of a number"
+  (if (zero? n)
+      0
+      (+ 1
+         (number-of-digits (quotient n 10)))))
+
+
+(define (ispermutation? n m)
+  "Determines if a number is a permutation of another number"
+  (let ((n-lst (sort (number->list n) <))
+        (m-lst (sort (number->list m) <)))
+    (if (equal? n-lst m-lst) #t #f)))
+
+
+(define (number-of-permutations n lst)
+  "Returns the number of permutations of a number in a list"
+  (foldr (lambda (m l)
+           (if (ispermutation? n m)
+               (+ 1 l)
+               l))
+         0
+         lst))
 
 (define (range . args)
   "Returns a python style range of numbers"

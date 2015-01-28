@@ -1,5 +1,10 @@
 #lang racket
 
+;;;; Project Euler Problem: 62
+;;;; Goal: Find the smallest cube that has exactly five permutations
+;;;; that are also cubes
+;;;; Author: Cooper Bell
+
 
 (define (cube-range n)
   (build-list n (lambda (x) (* x x x))))
@@ -39,15 +44,27 @@
          0
          lst))
 
+(define (filter-nums len lst)
+  "Filters a sorted list based on len and the number of digits of a number in lst"
+  (if (null? lst)
+      '()
+      (let ((lst-len (number-of-digits (car lst))))
+        (cond [(< len lst-len) '()]
+              [(> len lst-len) (filter-nums len (cdr lst))]
+              [else (cons (car lst)
+                          (filter-nums len (cdr lst)))]))))
 
-(define (iter-perm-check lst)
+
+(define (iter-perm-check num-perms lst)
   "Checks elements against a list to look for cubic permutations"
-  (let loop ((i (car lst)) (lst (cdr lst)))
-    (if (null? lst)
-        #f
-        (if (= (number-of-permutations i lst) 3)
-            i
-            (loop (car lst) (cdr lst))))))
+  (if (null? lst)
+      #f
+      (let* ((cur (car lst))
+             (rest (filter-nums (number-of-digits cur)
+                                (cdr lst))))
+        (if (>= (number-of-permutations cur rest) num-perms)
+            cur
+            (iter-perm-check num-perms (cdr lst))))))
 
 
-(iter-perm-check (cube-range 1 1000))
+(displayln (iter-perm-check (cube-range 9000)))
