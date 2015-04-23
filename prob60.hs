@@ -9,6 +9,6 @@ testConcat m n lst = comElem m n lst && comElem n m lst
   where
     comElem x y = elem (x * 10^(numDigs y) + y)
 
-    
+   
 main :: IO ()
 main = undefined
