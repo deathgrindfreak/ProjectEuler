@@ -19,10 +19,10 @@
     (fn [n] (* n (- (* 3 n) 2)))))
 
 (def ranges
-  (apply hash-map (map polys prangs)))
+  (apply hash-map (mapcat list polys prangs)))
 
 (def polygonals
-  (apply hash-map (map polys pfuns)))
+  (apply hash-map (mapcat list polys pfuns)))
 
 (def poly-vals
   (reduce-kv (fn [m k v]
